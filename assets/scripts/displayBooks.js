@@ -32,11 +32,36 @@ function setActiveBook (activeBook) {
 	const chapters = d3.select('#chapters');
 	chapters.html(null);
 
+	let activeSection;
+	let activeSectionName;
+	let madeFirst = false;
 	activeBook.chapters.forEach((chapter) => {
-		chapters.append('li').append('a')
-			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}`)
+		if (chapter.section !== activeSectionName || !madeFirst) {
+			activeSectionName = chapter.section;
+			if (activeSectionName) {
+				chapters.append('h3').text(activeSectionName);
+			}
+			activeSection = chapters.append('ul');
+			madeFirst = true;
+		}
+		
+		const title = chapter.title
+			? `${chapter.id} - ${chapter.title}`
+			: chapter.id;
+		
+		const link = activeSection.append('li').append('a')
 			.attr('class', 'link-button')
-			.text(`${chapter.id} - ${chapter.title}`);
+			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}`);
+		
+		link.append('span').text(title);
+
+		if (chapter.subtitle) {
+			link.append('br')
+			link.append('span')
+				.attr('class', 'label')
+				.text(chapter.subtitle);
+
+		}
 	});
 }
 

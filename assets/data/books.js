@@ -44,9 +44,9 @@ class Book {
 	}
 }
 
-function _buildChapters (chapterTitles) {
-	return chapterTitles.map((title, index) => new Chapter({
-		title,
+function _buildChapters (chapters) {
+	return chapters.map((chapter, index) => new Chapter({
+		...chapter,
 		id: index + 1,
 	}))
 }
@@ -54,6 +54,8 @@ class Chapter {
 	constructor (params) {
 		this.id = params.id;
 		this.title = params.title;
+		this.section = params.section;
+		this.subtitle = params.subtitle;
 	}
 }
 
@@ -74,34 +76,118 @@ const Books = {
 		type: BookType.NOVEL,
 		genres: [Genre.PSYCHOLOGICAL_THRILLER],
 		chapters: _buildChapters([
-			'Gambit 1 - Meeting',
-			'Gambit 1 - Echoes',
-			'Gambit 1 - Crossroads',
-			'Gambit 1 - Dissonance',
-			'Gambit 1 - Escalation',
-			'Gambit 1 - Knot',
-			'Gambit 1 - Ghosts',
-			'Gambit 2 - Blossom',
-			'Gambit 2 - Thriller',
-			'Gambit 2 - Fugue',
-			'Gambit 2 - Hinterland',
-			'Gambit 2 - Ebb',
-			'Gambit 2 - Parasite',
-			'Gambit 2 - Atomic',
-			'Gambit 2 - Rising',
-			'Gambit 2 - Reprise',
-			'Gambit 2 - Spiral',
-			'Gambit 2 - Origin',
-			'Gambit 3 - Breaks',
-			'Gambit 3 - Flow',
-			'Gambit 3 - Eyes',
-			'Gambit 3 - Switch',
-			'Gambit 3 - Resistor',
-			'Gambit 3 - Accretion',
-			'Gambit 3 - Fuse',
-			'Gambit 3 - Riptide',
-			'Gambit 3 - Alpine',
-			'Null Gambit',
+			{
+				title: 'Meeting',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Echoes',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Crossroads',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Dissonance',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Escalation',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Knot',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Ghosts',
+				section: 'Gambit 1'
+			},
+			{
+				title: 'Blossom',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Thriller',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Fugue',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Hinterland',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Ebb',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Parasite',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Atomic',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Rising',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Reprise',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Spiral',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Origin',
+				section: 'Gambit 2'
+			},
+			{
+				title: 'Breaks',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Flow',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Eyes',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Switch',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Resistor',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Accretion',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Fuse',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Riptide',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Alpine',
+				section: 'Gambit 3'
+			},
+			{
+				title: 'Null Gambit',
+				section: 'Epilogue'
+			},
 		]),
 		thumbnail: '../assets/thumbnails/alpine.jpg',
 	}),
@@ -120,48 +206,174 @@ const Books = {
 		type: BookType.NOVEL,
 		genres: [Genre.DYSTOPIAN, Genre.SUPERNATURAL],
 		chapters: _buildChapters([
-			'Irvington, Nebraska, 1909',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1926',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'South to Route 24, 1927',
-			'Route 24, 1927',
-			'Route 24, 1927',
-			'Route 24, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'Southwest to Colorado Springs\' Outskirts, 1927',
-			'Elsmere, Colorado, 1927',
-			'Elsmere, Colorado, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'The Nest, 1927',
-			'Black Forest, Colorado 1927',
-			'Black Forest, Colorado 1927',
-			'Colorado Springs, Colorado, 1927',
-			'Colorado Springs, Colorado, 1927',
-			'Colorado Springs, Colorado, 1927',
-			'Colorado Springs, Colorado, 1927',
-			'Manitou Springs, Colorado, 1927',
-			'Manitou Springs, Colorado, 1927',
-			'Old Colorado City, Colorado, 1927',
+			{
+				section: 'Bone - Prologue',
+				subtitle: 'Irvington, Nebraska, 1909',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1926',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'South to Route 24, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Route 24, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Route 24, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Route 24, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Southwest to Colorado Springs\' Outskirts, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Elsmere, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Elsmere, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'The Nest, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Black Forest, Colorado 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Black Forest, Colorado 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Colorado Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Colorado Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Colorado Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Colorado Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Manitou Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Manitou Springs, Colorado, 1927',
+			},
+			{
+				section: 'Blood',
+				subtitle: 'Old Colorado City, Colorado, 1927',
+			},
 		]),
 		thumbnail: '../assets/thumbnails/bone-and-blood.jpg',
 	}),
@@ -181,22 +393,54 @@ const Books = {
 		type: BookType.ANTHOLOGY,
 		genres: [Genre.HORROR, Genre.SUPERNATURAL],
 		chapters: _buildChapters([
-			'Assemblage I',
-			'Do I Lock It?',
-			'Wall Flowers',
-			'Imperfection',
-			'Outer Crust',
-			'Hunting',
-			'Tenure',
-			'Denise',
-			'Assemblage II',
-			'The Tantrum',
-			'Unearthed',
-			'Undertow',
-			'Inoperable',
-			'Genetics',
-			'Assemblage III',
-			'Unfounded',
+			{
+				title: 'Assemblage I',
+			},
+			{
+				title: 'Do I Lock It?',
+			},
+			{
+				title: 'Wall Flowers',
+			},
+			{
+				title: 'Imperfection',
+			},
+			{
+				title: 'Outer Crust',
+			},
+			{
+				title: 'Hunting',
+			},
+			{
+				title: 'Tenure',
+			},
+			{
+				title: 'Denise',
+			},
+			{
+				title: 'Assemblage II',
+			},
+			{
+				title: 'The Tantrum',
+			},
+			{
+				title: 'Unearthed',
+			},
+			{
+				title: 'Undertow',
+			},
+			{
+				title: 'Inoperable',
+			},
+			{
+				title: 'Genetics',
+			},
+			{
+				title: 'Assemblage III',
+			},
+			{
+				title: 'Unfounded',
+			},
 		]),
 		thumbnail: '../assets/thumbnails/crenulation.jpg',
 

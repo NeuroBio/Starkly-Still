@@ -23,8 +23,14 @@ h2 {
 h3 {
 	padding-top: 0.1px;
 	margin-top: 0;
-	font-size: 14pt;
+	margin-bottom: 0;
+	font-size: 13pt;
 }
+
 p, a, li, span {
 	font-size: 12pt;
+}
+
+.label {
+	color: rgb(160, 160, 160);
 }

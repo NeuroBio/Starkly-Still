@@ -80,11 +80,6 @@ hr {
 	border-radius: .5em;
 }
 
-
-.label {
-	color: rgb(160, 160, 160);
-}
-
 #top-info::after {
 	content: "";
 	display: table;
@@ -92,29 +87,34 @@ hr {
 }
 
 #chapters {
+	margin-left: 1em;
+}
+
+ul {
 	display: flex;
 	flex-direction: column;
 	row-gap: 1em;
+	margin-top: 0;
 } 
 
-#chapters li {
+li {
 	margin-left: -1em;
 	list-style-type: none;
 	border-radius: .5em;
 	display: flex;
 }
 
+li:hover {
+	list-style-type: none;
+	background-color: rgb(46, 43, 46);
+	
+}
+
 .link-button {
 	display: inline-block;
-	padding: 6px 0em;
+	padding: 6px .2em;
 	cursor: pointer;
 	text-decoration: none;
 	color: whitesmoke;
 	flex-grow: 1;
-}
-
-#chapters li:hover {
-	list-style-type: none;
-	background-color: rgb(46, 43, 46);
-	
 }

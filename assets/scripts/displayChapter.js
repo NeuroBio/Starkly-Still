@@ -3,9 +3,20 @@ const bookId = urlParams.get(QueryParams.BOOK);
 const chapterId = +urlParams.get(QueryParams.CHAPTER);
 
 const activeBook = Books[bookId];
+const activateChapter = activeBook.chapters[chapterId - 1];
 
 d3.select(`#book-title`).text(activeBook.title);
-d3.select(`#chapter-title`).text(activeBook.chapters[chapterId - 1].title);
+d3.select(`#chapter-section`).text(activateChapter.section);
+const title = activateChapter.title
+	? `${activateChapter.id} - ${activateChapter.title}`
+	: activateChapter.id;
+d3.select(`#chapter-title`).text(title);
+
+if (activateChapter.subtitle) {
+	d3.select('#optional-chapter-data').append('h3')
+		.attr('class', 'label')
+		.text(activateChapter.subtitle)
+}
 
 
 
