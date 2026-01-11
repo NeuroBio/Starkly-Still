@@ -34,6 +34,7 @@ class Book {
 		this.id = params.id
 		this.title = params.title;
 		this.blurb = params.blurb;
+		this.misc = params.misc;
 		
 		this.wordCount = params.wordCount;
 		this.type = params.type;
@@ -201,6 +202,13 @@ const Books = {
 			Courting one of the knights?  Unacceptable.  Claiming a rising royal as his own? Treasonous.
 			But as the decaying nest caves in on itself, he'll do anything to keep his chosen family safe.
 			Even it means allying himself with the princess that rejected him.
+		`,
+		misc: `
+			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
+			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by....
+			how to make being a necromancer as unfun as possible. 
+			Volume I focuses almost entirely on the vampires.
+			Volume II refocuses on what the necromancers do with the vampires once they meet.
 		`,
 		wordCount: `~91K`,
 		type: BookType.NOVEL,

@@ -28,6 +28,7 @@ function setActiveBook (activeBook) {
 	d3.select(`#word-count`).text(activeBook.wordCount);
 	d3.select(`#genres`).text(activeBook.genres.join(', '));
 	d3.select('#blurb').text(activeBook.blurb);
+	d3.select('#misc').text(activeBook.misc);
 
 	const chapters = d3.select('#chapters');
 	chapters.html(null);
