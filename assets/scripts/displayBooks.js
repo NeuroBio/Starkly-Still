@@ -33,7 +33,6 @@ function setActiveBook (activeBook) {
 	const chapters = d3.select('#chapters');
 	chapters.html(null);
 
-	console.log(activeBook)
 	activeBook.chapters.forEach((chapter) => {
 		chapters.append('li').append('a')
 			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}`)
