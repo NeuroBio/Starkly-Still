@@ -1,6 +1,6 @@
 
 const bookList = d3.select('#books');
-const activeBook = bookList[BookTitles.ALPINE];
+const activeBook = Books[BookTitles.ALPINE];
 
 Object.values(Books).forEach((book) => {
 	const bookEntry = bookList.append('article')
@@ -17,4 +17,11 @@ Object.values(Books).forEach((book) => {
 		.attr('class', 'short-blurb')
 		.text(book.blurb);
 });
+
+
+d3.select('#title').text(activeBook.title)
+
+d3.select('#thumbnail').attr('src', activeBook.thumbnail)
+
+d3.select('#blurb').text(activeBook.blurb);
 

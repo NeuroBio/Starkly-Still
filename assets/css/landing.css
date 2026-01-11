@@ -52,4 +52,21 @@
 	border: 1px whitesmoke solid;
 	flex-grow: 1;
 	max-width: 500px;
+	padding: .5em;
+}
+
+#title {}
+
+#thumbnail {
+	float: left;
+	height: 300px;
+	width: 135px;
+	flex-shrink: 0;
+	display: inline;
+	margin-right: .5em;
+	border-radius: .5em;
+}
+
+#blurb {
+
 }
