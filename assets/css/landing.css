@@ -7,12 +7,20 @@
 }
 
 h1 {
+	position: relative;
 	line-height: 1;
 	margin: 0;
 	font-size: 70pt;
 	font-family: 'BevScript';
 	color: rgb(156, 82, 185);
 	font-weight: normal;
+}
+
+#still {
+	position: absolute;
+	font-size: 70pt;
+	left: 140px;
+	bottom: -22px;
 }
 
 .side-by-side {
