@@ -1,9 +1,9 @@
 
 const bookList = d3.select('#books');
-const activeBook = Books[BookTitles.ALPINE];
 
 Object.values(Books).forEach((book) => {
 	const bookEntry = bookList.append('article')
+		.on('click', () => setActiveBook(book))
 		.attr('class', 'book');
 	
 	bookEntry.append('img')
@@ -18,10 +18,13 @@ Object.values(Books).forEach((book) => {
 		.text(book.blurb);
 });
 
+setActiveBook(Books[BookTitles.ALPINE]);
 
-d3.select('#title').text(activeBook.title)
 
-d3.select('#thumbnail').attr('src', activeBook.thumbnail)
 
-d3.select('#blurb').text(activeBook.blurb);
+function setActiveBook (activeBook) {
+	d3.select('#title').text(activeBook.title)
+	d3.select('#thumbnail').attr('src', activeBook.thumbnail)
+	d3.select('#blurb').text(activeBook.blurb);
+}
 
