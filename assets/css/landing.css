@@ -1,3 +1,20 @@
+@font-face {
+	 font-display: swap; 
+    font-family: 'BevScript';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/BrevScript_PersonalUse.ttf') format('truetype'); 
+}
+
+h1 {
+	line-height: 1;
+	margin: 0;
+	font-size: 70pt;
+	font-family: 'BevScript';
+	color: rgb(156, 82, 185);
+	font-weight: normal;
+}
+
 .side-by-side {
 	display: flex;
 	column-gap: 1em;
@@ -64,7 +81,7 @@ hr {
 
 /* Right panel */
 #book-info {
-	border: 1px whitesmoke solid;
+	border: 1px rgb(156, 82, 185) solid;
 	border-radius: .5em;
 	flex-grow: 1;
 	max-width: 500px;

@@ -32,7 +32,7 @@ h1, h2 {
 #chapter-text {
 	padding: 0 1em;
 	max-width: 550px;
-	border: 1px whitesmoke solid;
+	border: 1px rgb(156, 82, 185) solid;
 	border-radius: .5em;
 	margin-bottom: 55px;
 }
