@@ -34,6 +34,15 @@ if (+chapterId === activeBook.chapters.length) {
 	nextChapter.attr(`href`, `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapterId + 1}`)
 }
 
+function scrollToTop () {
+	window.scrollTo({
+		top: 0,
+		left: 0,
+		behavior: 'smooth'
+	});
+}
+
+
 fetch(`../assets/chapters/${bookId}/${chapterId}.txt`)
 	.then(response => response.text())
 	.then(content => {

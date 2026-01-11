@@ -30,8 +30,13 @@ h1, h2 {
 }
 
 #chapter-text {
-	padding: 1em;
+	padding: 0 1em;
 	max-width: 550px;
 	border: 1px whitesmoke solid;
 	border-radius: .5em;
+}
+
+#scroll-to-top {
+	margin-top: .5em;
+	border: 0;
 }
