@@ -42,6 +42,13 @@ function scrollToTop () {
 	});
 }
 
+function bookMark () {
+	localStorage.setItem(bookId, chapterId);
+	const actionText = `Bookmarked ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}).`;
+	console.log(actionText);
+	window.alert(actionText);
+}
+
 
 fetch(`../assets/chapters/${bookId}/${chapterId}.txt`)
 	.then(response => response.text())

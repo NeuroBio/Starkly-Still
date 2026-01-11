@@ -13,7 +13,12 @@
 	</head>
 	<body>
 		<header>
-			<a id="back" class="icon-button" href="./landing.html"><</a>
+			<a
+				id="back"
+				class="icon-button"
+				href="./landing.html"
+				title="Back to Home"
+			><</a>
 			<h1 id="book-title">
 				<!-- populate via d3 -->
 			</h1>
@@ -22,11 +27,19 @@
 			<!-- populate via d3 -->
 		</h2>
 		<div id="chapter-interface">
-			<a id="prior-chapter" class="icon-button"><</a>
+			<a
+				id="prior-chapter"
+				class="icon-button"
+				title="Go to Prior Chapter"
+			><</a>
 			<h2 id="chapter-title">
 				<!-- populate via d3 -->
 			</h2>
-			<a id="next-chapter" class="icon-button">></a>
+			<a
+				id="next-chapter"
+				class="icon-button"
+				title="Go to Next Chapter"
+			>></a>
 		</div>
 		
 		<div id="optional-chapter-data">
@@ -39,7 +52,18 @@
 
 		<footer>
 			<hr>
-			<button id="scroll-to-top" class="icon-button" onclick="scrollToTop()">^</button>
+			<div class="button-box">
+				<button
+					class="icon-button footer-button"
+					onclick="scrollToTop()"
+					title="Scroll to Top"
+				>^</button>
+				<button
+					class="icon-button footer-button"
+					onclick="bookMark()"
+					title="Bookmark Chapter"
+				>*</button>
+			</div>
 		</footer>
 
 		<script src="https://d3js.org/d3.v5.min.js"></script>

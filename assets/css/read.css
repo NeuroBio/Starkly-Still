@@ -46,7 +46,12 @@ footer  {
 	z-index: 1000;
 	background-color: rgb(27, 27, 27);
 }
-#scroll-to-top {
-	margin-top: .5em;
+
+.button-box {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-button {
 	border: 0;
 }
