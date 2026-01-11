@@ -18,7 +18,7 @@ Object.values(Books).forEach((book) => {
 		.text(book.blurb);
 });
 
-setActiveBook(Books[BookTitles.ALPINE]);
+setActiveBook(Books[BookId.ALPINE]);
 
 
 
@@ -29,5 +29,13 @@ function setActiveBook (activeBook) {
 	d3.select(`#word-count`).text(activeBook.wordCount);
 	d3.select(`#genres`).text(activeBook.genres.join(', '));
 	d3.select('#blurb').text(activeBook.blurb);
+
+	const chapters = d3.select('#chapters');
+	chapters.html(null);
+
+	console.log(activeBook)
+	activeBook.chapters.forEach((chapter) => {
+		chapters.append('li').text(`${chapter.id} - ${chapter.title}`);
+	});
 }
 

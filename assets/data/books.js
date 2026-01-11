@@ -1,4 +1,10 @@
-const BookTitles = {
+const BookId = {
+	ALPINE: 'alpine',
+	BONE_BLOOD_1: 'bone-and-blood-1',
+	CRENULATION: 'crenulation',
+};
+
+const BookTitle = {
 	ALPINE: 'Alpine',
 	BONE_BLOOD_1: 'Bone and Blood (Volume 1)',
 	CRENULATION: 'Crenulation',
@@ -20,20 +26,36 @@ const Genre = {
 
 class Book {
 	constructor (params) {
+		this.id = params.id
 		this.title = params.title;
 		this.blurb = params.blurb;
 		
 		this.wordCount = params.wordCount;
 		this.type = params.type;
 		this.genres = params.genres;
+		this.chapters = params.chapters;
 
 		this.thumbnail = params.thumbnail;
 	}
 }
 
+function _buildChapters (chapterTitles) {
+	return chapterTitles.map((title, index) => new Chapter({
+		title,
+		id: index + 1,
+	}))
+}
+class Chapter {
+	constructor (params) {
+		this.id = params.id;
+		this.title = params.title;
+	}
+}
+
 const Books = {
-	[BookTitles.ALPINE]: new Book({
-		title: BookTitles.ALPINE,
+	[BookId.ALPINE]: new Book({
+		title: BookTitle.ALPINE,
+		id: BookId.ALPINE,
 		blurb: `
 			Awkward software developer John meets his new coworker, Tim,
 			your typical, plugged-in socialite, with a perfect smile, all the right clothes, and a psychopath's dead-eyed stare.
@@ -46,10 +68,12 @@ const Books = {
 		wordCount: `~80K`,
 		type: BookType.NOVEL,
 		genres: [Genre.PSYCHOLOGICAL_THRILLER],
+		chapters: _buildChapters(['1', '2', '3']),
 		thumbnail: '../assets/thumbnails/alpine.jpg',
 	}),
-	[BookTitles.BONE_BLOOD_1]: new Book({
-		title: BookTitles.BONE_BLOOD_1,
+	[BookId.BONE_BLOOD_1]: new Book({
+		title: BookTitle.BONE_BLOOD_1,
+		id: BookId.BONE_BLOOD_1,
 		blurb: `
 			There's no place in vampire hierarchy for failed prince Torani.
 			Raised to start the next nest, now his only purpose is to predict the final rank of rising grubs.
@@ -61,10 +85,12 @@ const Books = {
 		wordCount: `~91K`,
 		type: BookType.NOVEL,
 		genres: [Genre.DYSTOPIAN, Genre.SUPERNATURAL],
+		chapters: _buildChapters(['1', '2', '3']),
 		thumbnail: '../assets/thumbnails/bone-and-blood.jpg',
 	}),
-	[BookTitles.CRENULATION]: new Book({
-		title: BookTitles.CRENULATION,
+	[BookId.CRENULATION]: new Book({
+		title: BookTitle.CRENULATION,
+		id: BookId.CRENULATION,
 		blurb: `
 			A sentient book that collects memories.
 			A town on the corner between realities.
@@ -77,6 +103,7 @@ const Books = {
 		wordCount: 'WIP',
 		type: BookType.ANTHOLOGY,
 		genres: [Genre.HORROR, Genre.SUPERNATURAL],
+		chapters: _buildChapters([]),
 		thumbnail: '../assets/thumbnails/crenulation.jpg',
 
 	}),

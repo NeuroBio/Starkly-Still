@@ -11,7 +11,7 @@ hr {
 #books {
 	width: 250px;
 	display: flex;
-	flex-flow: wrap;
+	flex-direction: column;
 	row-gap: 1.5em;
 }
 
@@ -94,4 +94,23 @@ hr {
 	content: "";
 	display: table;
 	clear: both;
+}
+
+#chapters {
+	display: flex;
+	flex-direction: column;
+	row-gap: .5em;
+} 
+
+#chapters li {
+	margin-left: -1em;
+	list-style-type: none;
+	border-radius: .5em;
+	padding: 1em;
+	cursor: pointer;
+}
+
+#chapters li:hover {
+	list-style-type: none;
+	background-color: rgb(46, 43, 46);
 }
