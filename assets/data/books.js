@@ -43,7 +43,7 @@ const Books = {
 			This is not a story about happy endings or triumph.
 			It is about coping with the everyday horror around us, which can only be defeated by outlasting it.
 		`,
-		wordCount: 0,
+		wordCount: `~80K`,
 		type: BookType.NOVEL,
 		genres: [Genre.PSYCHOLOGICAL_THRILLER],
 	}),
@@ -57,7 +57,7 @@ const Books = {
 			But as the decaying nest caves in on itself, he'll do anything to keep his chosen family safe.
 			Even it means allying himself with the princess that rejected him.
 		`,
-		wordCount: 0,
+		wordCount: `~91K`,
 		type: BookType.NOVEL,
 		genres: [Genre.DYSTOPIAN, Genre.SUPER_NATURAL],
 	}),
@@ -72,7 +72,7 @@ const Books = {
 			"[...] each entry alone does understand its own elegance.
 			They only realize their sense of purpose when properly curated, ordered, and sewed to a spine that unifies them together."
 		`,
-		wordCount: 0,
+		wordCount: 'WIP',
 		type: BookType.ANTHOLOGY,
 		genres: [Genre.HORROR, Genre.SUPER_NATURAL],
 
