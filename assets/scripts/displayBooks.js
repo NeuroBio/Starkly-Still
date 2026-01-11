@@ -25,6 +25,9 @@ setActiveBook(Books[BookTitles.ALPINE]);
 function setActiveBook (activeBook) {
 	d3.select('#title').text(activeBook.title)
 	d3.select('#thumbnail').attr('src', activeBook.thumbnail)
+	d3.select(`#type`).text(activeBook.type);
+	d3.select(`#word-count`).text(activeBook.wordCount);
+	d3.select(`#genres`).text(activeBook.genres.join(', '));
 	d3.select('#blurb').text(activeBook.blurb);
 }
 

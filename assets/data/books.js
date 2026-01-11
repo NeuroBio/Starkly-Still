@@ -2,13 +2,32 @@ const BookTitles = {
 	ALPINE: 'Alpine',
 	BONE_BLOOD_1: 'Bone and Blood (Volume 1)',
 	CRENULATION: 'Crenulation',
+};
+
+const BookType = {
+	NOVEL: 'Novel',
+	NOVELLA: 'Novella',
+	ANTHOLOGY: 'Short Story Anthology',
+	SHORT_STORY: 'Short Story',
+};
+
+const Genre = {
+	HORROR: 'Horror',
+	DYSTOPIAN: 'Dystopian',
+	PSYCHOLOGICAL_THRILLER: 'Psychological Thriller',
+	SUPER_NATURAL: 'Super Natural',
 }
+
 class Book {
 	constructor (params) {
 		this.title = params.title;
 		this.blurb = params.blurb;
-		this.thumbnail = params.thumbnail;
+		
+		this.wordCount = params.wordCount;
+		this.type = params.type;
+		this.genres = params.genres;
 
+		this.thumbnail = params.thumbnail;
 	}
 }
 
@@ -24,7 +43,9 @@ const Books = {
 			This is not a story about happy endings or triumph.
 			It is about coping with the everyday horror around us, which can only be defeated by outlasting it.
 		`,
-
+		wordCount: 0,
+		type: BookType.NOVEL,
+		genres: [Genre.PSYCHOLOGICAL_THRILLER],
 	}),
 	[BookTitles.BONE_BLOOD_1]: new Book({
 		title: BookTitles.BONE_BLOOD_1,
@@ -36,6 +57,9 @@ const Books = {
 			But as the decaying nest caves in on itself, he'll do anything to keep his chosen family safe.
 			Even it means allying himself with the princess that rejected him.
 		`,
+		wordCount: 0,
+		type: BookType.NOVEL,
+		genres: [Genre.DYSTOPIAN, Genre.SUPER_NATURAL],
 	}),
 	[BookTitles.CRENULATION]: new Book({
 		title: BookTitles.CRENULATION,
@@ -48,5 +72,9 @@ const Books = {
 			"[...] each entry alone does understand its own elegance.
 			They only realize their sense of purpose when properly curated, ordered, and sewed to a spine that unifies them together."
 		`,
+		wordCount: 0,
+		type: BookType.ANTHOLOGY,
+		genres: [Genre.HORROR, Genre.SUPER_NATURAL],
+
 	}),
 }

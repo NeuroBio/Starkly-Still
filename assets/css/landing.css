@@ -3,6 +3,11 @@
 	column-gap: 1em;
 }
 
+hr {
+	margin-bottom: 1em;
+}
+
+/* left panel */
 #books {
 	width: 250px;
 	display: flex;
@@ -36,7 +41,6 @@
 }
 
 .book h2 {
-	/* display: inline; */
 	margin-bottom: 0;
 }
 
@@ -57,6 +61,7 @@
 .short-blurb {
 }
 
+/* Right panel */
 #book-info {
 	border: 1px whitesmoke solid;
 	border-radius: .5em;
@@ -81,6 +86,12 @@
 
 }
 
-hr {
-	margin-bottom: 1em;
+.label {
+	color: rgb(160, 160, 160);
+}
+
+#top-info::after {
+	content: "";
+	display: table;
+	clear: both;
 }
