@@ -20,9 +20,9 @@ header {
 	width: 2em;
 	font-size: 18px;
 	cursor: pointer;
-	background-color: rgb(46, 43, 46);
+	background-color: rgb(78, 66, 78);
 	text-decoration: none;
-	color: whitesmoke;
+	color: rgb(216, 140, 247);
 }
 
 h1, h2 {
@@ -50,8 +50,17 @@ footer  {
 .button-box {
 	display: flex;
 	justify-content: space-between;
+	padding: 0 .5em;
 }
 
 .footer-button {
 	border: 0;
+}
+
+#bookmark {
+	color: whitesmoke;
+}
+
+.bookmarked {
+	color: rgb(216, 140, 247) !important;
 }

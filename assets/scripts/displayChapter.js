@@ -4,6 +4,12 @@ const chapterId = +urlParams.get(QueryParams.CHAPTER);
 
 const activeBook = Books[bookId];
 const activateChapter = activeBook.chapters[chapterId - 1];
+const bookmarkButton = d3.select('#bookmark');
+console.log(+localStorage.getItem(bookId))
+if (+localStorage.getItem(bookId) === chapterId) {
+	console.log('entered');
+	bookmarkButton.classed('bookmarked', true);
+}
 
 d3.select(`#book-title`).text(activeBook.title);
 d3.select(`#chapter-section`).text(activateChapter.section);
@@ -43,10 +49,20 @@ function scrollToTop () {
 }
 
 function bookMark () {
-	localStorage.setItem(bookId, chapterId);
-	const actionText = `Bookmarked ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}).`;
-	console.log(actionText);
-	window.alert(actionText);
+	const current = +localStorage.getItem(bookId);
+	if (current === chapterId) {
+		localStorage.clear(bookId);
+		bookmarkButton.classed('bookmarked', false);
+		const actionText = `Removed bookmark for ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}).`;
+		console.log(actionText);
+		window.alert(actionText);
+	} else {
+		localStorage.setItem(bookId, chapterId);
+		bookmarkButton.classed('bookmarked', true);
+		const actionText = `Bookmarked ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}).`;
+		console.log(actionText);
+		window.alert(actionText);
+	}
 }
 
 
