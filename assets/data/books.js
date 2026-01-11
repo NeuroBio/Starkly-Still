@@ -1,6 +1,6 @@
 const BookId = Object.freeze({
 	ALPINE: 'alpine',
-	BONE_BLOOD_1: 'bone-and-blood-1',
+	BONE_BLOOD_1: 'bone-and-blood-v1',
 	CRENULATION: 'crenulation',
 });
 
