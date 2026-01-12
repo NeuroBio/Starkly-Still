@@ -63,9 +63,8 @@ h1, h2 {
 	border-top: solid 2px rgb(156, 82, 185);
 }
 
-#spacer {
-	width: 5px;
-	height: 5px;
+#page-number {
+	font-size: 14pt;
 }
 
 footer  {

@@ -12,43 +12,49 @@ if (bookmark.chapterId === chapterId) {
 	bookmarkButton.classed('bookmarked', true);
 }
 
-d3.select(`#book-title`).text(activeBook.title);
-d3.select(`#chapter-section`).text(activateChapter.section
-	? `${activateChapter.section}: `
-	: '');
-const title = activateChapter.title
-	? `${activateChapter.id} - ${activateChapter.title}`
-	: activateChapter.id;
-d3.select(`#chapter-title`).text(title);
+buildHeader();
+buildChapterLinks();
 
-if (activateChapter.subtitle) {
-	d3.select('#optional-chapter-data').append('h3')
-		.attr('class', 'label')
-		.text(activateChapter.subtitle)
+
+function buildHeader() {
+	d3.select(`#book-title`).text(activeBook.title);
+	d3.select(`#chapter-section`).text(activateChapter.section
+		? `${activateChapter.section}: `
+		: '');
+	const title = activateChapter.title
+		? `${activateChapter.id} - ${activateChapter.title}`
+		: activateChapter.id;
+	d3.select(`#chapter-title`).text(title);
+
+	if (activateChapter.subtitle) {
+		d3.select('#optional-chapter-data').append('h3')
+			.attr('class', 'label')
+			.text(activateChapter.subtitle)
+	}
 }
+function buildChapterLinks () {
+	const priorChapter = d3.select('#prior-chapter');
+	if (chapterId === 1) {
+		priorChapter.classed('hide', true);
+	} else {
+		priorChapter.attr(`href`, buildReadLink({
+			book: activeBook.id,
+			chapter: chapterId - 1,
+			page: 1,
+		}));;
+	}
 
-const priorChapter = d3.select('#prior-chapter');
-if (chapterId === 1) {
-	priorChapter.classed('hide', true);
-} else {
-	priorChapter.attr(`href`, buildReadLink({
-		book: activeBook.id,
-		chapter: chapterId - 1,
-		page: 1,
-	}));;
+	const nextChapter = d3.select('#next-chapter');
+	if (+chapterId === activeBook.chapters.length) {
+		nextChapter.remove();
+	} else {
+		nextChapter.attr(`href`, buildReadLink({
+			book: activeBook.id,
+			chapter: chapterId + 1,
+			page: 1,
+		}));
+	}
 }
-
-const nextChapter = d3.select('#next-chapter');
-if (+chapterId === activeBook.chapters.length) {
-	nextChapter.remove();
-} else {
-	nextChapter.attr(`href`, buildReadLink({
-		book: activeBook.id,
-		chapter: chapterId + 1,
-		page: 1,
-	}));
-}
-
 
 function buildReadLink ({ book, chapter, page }) {
 	return `./read.html?${
@@ -81,7 +87,7 @@ function buildPages (content) {
 function addPageLinks (pageLength) {
 	const nextPage = d3.select('#next-page');
 	if (+pageId === pageLength) {
-		nextPage.remove();
+		nextPage.classed('hide', true);
 	} else {
 		nextPage.attr(`href`, buildReadLink({
 			book: activeBook.id,
@@ -92,7 +98,7 @@ function addPageLinks (pageLength) {
 
 	const priorPage = d3.select('#prior-page');
 	if (+pageId === 1) {
-		priorPage.remove();
+		priorPage.classed('hide', true);
 	} else {
 		priorPage.attr(`href`, buildReadLink({
 			book: activeBook.id,
@@ -100,6 +106,8 @@ function addPageLinks (pageLength) {
 			page: pageId - 1,
 		}));
 	}
+
+	d3.select('#page-number').text(pageId);
 }
 
 function scrollToTop () {
