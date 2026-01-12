@@ -111,17 +111,20 @@ function scrollToTop () {
 }
 
 function bookMark () {
-	const bookmark = JSON.parse(localStorage.getItem(bookId));
+	const bookmark = JSON.parse(localStorage.getItem(bookId) || '{}');
+	const chapterTitle = activateChapter.title
+		? `${activateChapter.title} (${activateChapter.id})`
+		: activateChapter.id;
 	if (bookmark.chapterId === chapterId && bookmark.pageId === pageId) {
 		localStorage.clear(bookId);
 		bookmarkButton.classed('bookmarked', false);
-		const actionText = `Removed bookmark for ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}), page ${pageId}.`;
+		const actionText = `Removed bookmark for ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
 		console.log(actionText);
 		window.alert(actionText);
 	} else {
 		localStorage.setItem(bookId, JSON.stringify({ chapterId, pageId }));
 		bookmarkButton.classed('bookmarked', true);
-		const actionText = `Bookmarked ${activeBook.title} at chapter: ${activateChapter.title} (${activateChapter.id}), page ${pageId}.`;
+		const actionText = `Bookmarked ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
 		console.log(actionText);
 		window.alert(actionText);
 	}
