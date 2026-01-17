@@ -8,7 +8,7 @@ const activeBook = Books[bookId];
 const activateChapter = activeBook.chapters[chapterId - 1];
 const bookmarkButton = d3.select('#bookmark');
 const bookmark = JSON.parse(localStorage.getItem(bookId) || '{}')
-if (bookmark.chapterId === chapterId) {
+if (bookmark.chapterId === chapterId && bookmark.pageId === pageId) {
 	bookmarkButton.classed('bookmarked', true);
 }
 
@@ -118,7 +118,7 @@ function scrollToTop () {
 	});
 }
 
-function bookMark () {
+function bookmarkPage () {
 	const bookmark = JSON.parse(localStorage.getItem(bookId) || '{}');
 	const chapterTitle = activateChapter.title
 		? `${activateChapter.title} (${activateChapter.id})`
