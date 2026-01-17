@@ -31,6 +31,10 @@ function setActiveBook (activeBook) {
 	d3.select(`#genres`).text(activeBook.genres.join(', '));
 	d3.select('#blurb').text(activeBook.blurb);
 	d3.select('#misc').text(activeBook.misc);
+	d3.select('#first-published').text(activeBook.firstPublished);
+	d3.select('#draft-completed').text(activeBook.completedFirstDraft);
+	d3.select('#last-edited').text(activeBook.lastEdited);
+
 
 	const chapters = d3.select('#chapters');
 	chapters.html(null);

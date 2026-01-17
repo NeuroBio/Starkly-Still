@@ -36,6 +36,9 @@ class Book {
 		this.title = params.title;
 		this.blurb = params.blurb;
 		this.misc = params.misc;
+		this.firstPublished = params.firstPublished;
+		this.completedFirstDraft = params.completedFirstDraft;
+		this.lastEdited = params.lastEdited;
 		
 		this.wordCount = params.wordCount;
 		this.type = params.type;
@@ -191,6 +194,9 @@ const Books = {
 				section: 'Epilogue'
 			},
 		]),
+		firstPublished: '2021',
+		completedFirstDraft: '2022',
+		lastEdited: '2026',
 		thumbnail: '../assets/thumbnails/alpine.jpg',
 	}),
 	[BookId.BONE_BLOOD_1]: new Book({
@@ -384,6 +390,9 @@ const Books = {
 				subtitle: 'Old Colorado City, Colorado, 1927',
 			},
 		]),
+		firstPublished: '2022',
+		completedFirstDraft: '2024',
+		lastEdited: '2024',
 		thumbnail: '../assets/thumbnails/bone-and-blood.jpg',
 	}),
 	[BookId.CRENULATION]: new Book({
@@ -451,6 +460,9 @@ const Books = {
 				title: 'Unfounded',
 			},
 		]),
+		firstPublished: '2022',
+		completedFirstDraft: 'pending',
+		lastEdited: '2025',
 		thumbnail: '../assets/thumbnails/crenulation.jpg',
 
 	}),
