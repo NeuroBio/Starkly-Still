@@ -55,7 +55,9 @@ function setActiveBook (activeBook) {
 			title = `(★) ${title}`;
 		}
 		
-		const page = pageId || 1;
+		const page = bookmark === chapter.id
+			? pageId || 1
+			: 1;
 		const link = activeSection.append('li').append('a')
 			.attr('class', 'link-button')
 			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
