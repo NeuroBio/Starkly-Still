@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="My creative writing portfolio.">
+		<meta name="author" content="Stray" />
+		<title>Starkly Still</title>
+
+		<link href="../assets/css/shared.css" rel="stylesheet" />
+		<link href="../assets/css/about.css" rel="stylesheet" />
+		<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	</head>
+	<body>
+
+		<a
+			id="back"
+			class="icon-button"
+			href="./landing.html"
+			title="Back to Home"
+		><</a>
+
+		<article class="frame">
+			<section>
+				<h1>You</h1>
+				<hr>
+				<p>
+					In this era, where the <i>surely</i> beneficent corporate dictators of our universe
+					collect and sell wild amounts of your personal data with zero transparency,
+					I'm making a little stand:
+					No, I don't track you.
+					No, I don't want your data.
+					Yes, my work is legitimately free-to-read without tacitly selling your data.
+				</p>
+				<p>
+					Even you bookmark something, it's stored in local storage on your device, which you control.
+					I get no notifications about it.
+					I don't store the numbers anywhere else.
+					I'm not running stats on it.
+					
+				</p>
+				<p>
+					In case you want a quick listing of what you have in local storage from this site, here it is:
+				</p>
+				<ul id="bookmarks">
+					<!-- populated by d3 -->
+				</ul>
+			</section>
+
+			<section>
+				<h1>Me</h1>
+				<hr>
+				<ul>
+					<li>
+						PhD in "Computational Biology" as I call it.
+						In truth, it was 2/3 cell biology and neuroscience,
+						1/3 bird song evolution using meta-analysis
+						and an agent-based model I translated from MatLab to R then C# and greatly extended.
+					</li>
+					<li>
+						Actual profession: Senior Software Engineer.  I primarily use javascript/typescript these days.
+					</li>
+					<li>
+						Hobbyist writer of course.
+					</li>
+					<li>
+						Hobbyist illustrator /  graphic novelist.
+					</li>
+					<li>
+						Hobbyist musician.  Though I ain't touched that viola in over a decade,
+						I had a scholarship to play in my college's orchestra.
+					</li>
+					<li>
+						I have 2 cat overlords.
+						Dusky is a wicked intelligent void with a white locket (11 years old).
+						Star is a torbie with fewer brain cells than a potato (1 year old).
+						They are both 6.5lbs.  They both have huge eyes.
+						Star wants senpai to notice her.
+						Dusky wants to mash the intruding potato out of existence.
+					</li>
+				</ul>
+
+			</section>
+		</article>
+		
+
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="../assets/data/books.js"></script>
+		<script src="../assets/scripts/displayBookmarks.js"></script>
+
+	</body>
+</html>

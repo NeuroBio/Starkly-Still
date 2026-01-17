@@ -130,7 +130,7 @@ function bookmarkPage () {
 		? `${activateChapter.title} (${activateChapter.id})`
 		: activateChapter.id;
 	if (bookmark.chapterId === chapterId && bookmark.pageId === pageId) {
-		localStorage.clear(bookId);
+		localStorage.removeItem(bookId);
 		bookmarkButton.classed('bookmarked', false);
 		const actionText = `Removed bookmark for ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
 		console.log(actionText);

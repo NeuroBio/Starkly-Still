@@ -17,6 +17,8 @@ Object.values(Books).forEach((book) => {
 		.text(book.blurb);
 });
 
+d3.select('#copyright').text(`© 2021 - ${new Date().getFullYear()} Stray. All Rights Reserved`);
+
 setActiveBook(Books[BookId.ALPINE]);
 
 
@@ -58,7 +60,9 @@ function setActiveBook (activeBook) {
 		const page = bookmark === chapter.id
 			? pageId || 1
 			: 1;
-		const link = activeSection.append('li').append('a')
+		const entry = activeSection.append('li')
+			.attr('class', 'link-entry');
+		const link = entry.append('a')
 			.attr('class', 'link-button')
 			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
 		
