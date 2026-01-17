@@ -1,7 +1,7 @@
 const bookmarks = d3.select('#bookmarks');
 let addedBookmark = false;
 
-Object.values(Books).forEach((book) => {
+Object.values(BookList).forEach((book) => {
 	let bookmark = localStorage.getItem(book.id);
 	if (!bookmark) {
 		return;
@@ -20,7 +20,6 @@ Object.values(Books).forEach((book) => {
 	addedBookmark = true;
 });
 
-console.log(addedBookmark)
 if (!addedBookmark) {
 	bookmarks.append('li').text('No bookmarks found.');
 }

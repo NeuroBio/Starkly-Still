@@ -4,7 +4,7 @@ const chapterId = +urlParams.get(QueryParams.CHAPTER);
 const pageId = +urlParams.get(QueryParams.PAGE);
 const WORD_PER_PAGE = 250;
 
-const activeBook = Books[bookId];
+const activeBook = BookList[bookId];
 const activateChapter = activeBook.chapters[chapterId - 1];
 const bookmarkButton = d3.select('#bookmark');
 const bookmark = JSON.parse(localStorage.getItem(bookId) || '{}')

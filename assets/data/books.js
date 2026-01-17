@@ -1,12 +1,20 @@
 const BookId = Object.freeze({
 	ALPINE: 'alpine',
 	BONE_BLOOD_1: 'bone-and-blood-v1',
+	BONE_BLOOD_2: 'bone-and-blood-v2',
 	CRENULATION: 'crenulation',
+});
+
+const SeriesTitle = Object.freeze({
+	ALPINE: 'Alpine',
+	BONE_BLOOD: 'Bone and Blood',
+	CRENULATION: 'Crenulation',
 });
 
 const BookTitle = Object.freeze({
 	ALPINE: 'Alpine',
 	BONE_BLOOD_1: 'Bone and Blood (Vol. 1)',
+	BONE_BLOOD_2: 'Bone and Blood (Vol. 2)',
 	CRENULATION: 'Crenulation',
 });
 
@@ -30,6 +38,12 @@ const QueryParams = Object.freeze({
 	PAGE: 'page',
 });
 
+class Series {
+	constructor (params) {
+		this.books = params.books;
+		this.title = params.title
+	}
+}
 class Book {
 	constructor (params) {
 		this.id = params.id
@@ -64,7 +78,7 @@ class Chapter {
 	}
 }
 
-const Books = {
+const BookList = {
 	[BookId.ALPINE]: new Book({
 		title: BookTitle.ALPINE,
 		id: BookId.ALPINE,
@@ -214,8 +228,6 @@ const Books = {
 			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
 			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by....
 			how to make being a necromancer as unfun as possible. 
-			Volume I focuses almost entirely on the vampires.
-			Volume II refocuses on what the necromancers do with the vampires once they meet.
 		`,
 		wordCount: `~91K`,
 		type: BookType.NOVEL,
@@ -395,6 +407,34 @@ const Books = {
 		lastEdited: '2024',
 		thumbnail: '../assets/thumbnails/bone-and-blood.jpg',
 	}),
+	[BookId.BONE_BLOOD_2]: new Book({
+		title: BookTitle.BONE_BLOOD_2,
+		id: BookId.BONE_BLOOD_2,
+		blurb: `
+			Kidnapping someone is generally not the best way to meet people, but Rhodes is in a tight spot as his cycle draws to a close.
+			Do vampires even count as “people?”
+			Probably not.
+			But he has one hell of a multi-task ahead of him, trying to get Errek bonded to him while dealing with the hunters after both of them.
+			Never mind explaining what he’s done to the other necromancers.
+			Meanwhile, Errek has to come to terms with his continued ascent without his mentor and under Rhodes’ thumb.
+			There is no choice but to make this work.
+			To somehow get Rhodes to serve his needs and resolve his unfinished business with the nest.
+			And to start a new one.
+		`,
+		misc: `
+			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
+			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by....
+			how to make being a necromancer as unfun as possible.
+		`,
+		wordCount: `WIP`,
+		type: BookType.NOVEL,
+		genres: [Genre.DYSTOPIAN, Genre.SUPERNATURAL],
+		chapters: [],
+		firstPublished: 'Pending',
+		completedFirstDraft: 'Pending',
+		lastEdited: 'Pending',
+		thumbnail: '',
+	}),
 	[BookId.CRENULATION]: new Book({
 		title: BookTitle.CRENULATION,
 		id: BookId.CRENULATION,
@@ -466,4 +506,22 @@ const Books = {
 		thumbnail: '../assets/thumbnails/crenulation.jpg',
 
 	}),
-}
+};
+
+const SeriesList = [
+	new Series({
+		title: SeriesTitle.ALPINE,
+		books: [BookList[BookId.ALPINE]],
+	}),
+	new Series({
+		title: SeriesTitle.BONE_BLOOD,
+		books: [
+			BookList[BookId.BONE_BLOOD_1],
+			BookList[BookId.BONE_BLOOD_2],
+		],
+	}),
+	new Series({
+		title: SeriesTitle.CRENULATION,
+		books: [BookList[BookId.CRENULATION]],
+	}),
+];
