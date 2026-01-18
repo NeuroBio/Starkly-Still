@@ -62,6 +62,7 @@ function setOtherBooks(activeBook, activeSeries) {
 
 function setChapters (activeBook) {
 	const chapters = d3.select('#chapters');
+	let addedChapter = false;
 	chapters.html(null);
 
 	let activeSection;
@@ -69,6 +70,7 @@ function setChapters (activeBook) {
 	let madeFirst = false;
 	const { chapterId: bookmark, pageId } = JSON.parse(localStorage.getItem(activeBook.id) || '{}');
 	activeBook.chapters.forEach((chapter) => {
+		addedChapter = true;
 		if (chapter.section !== activeSectionName || !madeFirst) {
 			activeSectionName = chapter.section;
 			if (activeSectionName) {
@@ -105,5 +107,9 @@ function setChapters (activeBook) {
 
 		}
 	});
+
+	if (!addedChapter) {
+		chapters.append('p').text('Pending');
+	}
 }
 
