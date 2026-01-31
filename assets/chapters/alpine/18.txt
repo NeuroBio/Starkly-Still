@@ -1,22 +1,48 @@
-The next day, I trudged into work with my head down and my eyes darting about.  At some point, I would have to face Ryan and pretend the night before never happened.  I wanted to postpone that interaction as long as possible.  My plan was to get in, turn on the computer, and lose myself in coding until it was time to leave.  Assuming I could even stay awake.  Sleep had eluded me, and I could feel the dark circles under my eyes.  I prayed for no unexpected challenges that day.  I had no reserves left to confront them.
+The next day, I trudged into work with my head down and my eyes darting.  At some point, I would have to face Ryan and pretend the night before had never happened.  I wanted to postpone that interaction as long as possible.
 
-Unlocking the outside door and being the first one to stride into the dark office felt good.  I flicked on the lights, inviting that familiar dull hum to envelop the space.  It felt so normal to walk the stretch to my chair.  Past Bea’s front desk of organized chaos.  Clara’s perfectly ordered cubicle with walls covered in photos of her favorite vacation spots.  Dave’s stacks of textbooks, manuals, and half-filled notebooks.  Janice’s veritable green house of draping stems and waxy leaves.  I stared at the floor as I passed Ryan’s desk.  Reaching my little nook, I placed my hand on my chair.  For some reason, I decided to look back at Switch’s desk.
+I planned to get in, turn on the computer, and lose myself in coding until it was time to leave.  Assuming I could even stay awake.  Sleep had eluded me.  I felt the dark circles under my eyes.  I prayed for no unexpected challenges that day.  My reserves to confront them were empty.
 
-It was orderly.  Just enough things on it to not feel empty, but nothing about it was personal.  At least not personal to him.  There were plenty of odds and ends that our coworkers had gifted him, and he put on display.  A stack of lined, plant-themed post-its with curlicues at the bottom.  Janice.  Three top-of-the-line ball point pens in red, black, and green.  Dave.  A tin of salon-quality hair gel as a joke.  Clara.  A psychedelic-colored, stuffed platypus.  Bea.  A dozen other things that I could drop off at the desk of the person who gave it to him if I had to.  Even the Mayan-themed coffee mug came from that intern whose name I forgot.  None of it fit together.  None of it was really his.  None of it had his aura.  The gestalt looked more like a poorly planned showroom mockup than a real person’s space.
+Unlocking the outside door and being the first one to stride into the dark office felt good.  I flicked on the lights, inviting that familiar dull hum to envelop the space.  It felt so normal to walk the stretch to my chair.
 
-The impulse to take a closer look griped me.  More than that, I dared to sit down in his chair.  To satisfy my curiosity about what the world looked like from his perspective.  I thought something would click.  That putting myself into his position would reveal something important about him.  Whatever I had expected to find was not there.  I saw another angle on the same view I had from my identical office chair.  I shook my head, stood up, and returned to my desk.
+Past Bea’s front desk of organized chaos.  Clara’s perfectly ordered cubicle with walls covered in photos of her favorite vacation spots.  Dave’s stacks of textbooks, manuals, and half-filled notebooks.  Janice’s veritable greenhouse of draping stems and waxy leaves.
 
-Comparing his cubical to mine, it dawned on me how stark my space was.  Nothing I had brought.  No gifts.  Just a pile of pens on a messy stack of paperwork.  An office artifact someone could have accidently left at a vacant desk in a moment of distraction.  The only thing that betrayed the fact that the cubical had an occupant was the lack of dust on the keyboard.  Compared to the warren of dust bunnies building up behind the moni—there was something behind the monitor.
+I stared at the floor as I passed Ryan’s desk.
 
-I pulled out the object and nearly lost my composure.  There was a trash can by the printer.  I walked up to it.  I moved aside a ream of discarded paper.  I dropped the squishy shark into the bottom of the can.  I buried it.
+Reaching my spot, I placed my hand on my chair.  For some reason, I decided to look back at Switch’s desk.
+
+It was orderly.  Just cluttered enough to not feel empty.  But nothing about it was personal.  At least not personal to him.  All of it was memorabilia our coworkers had gifted him.
+
+A stack of lined, plant-themed post-its with curlicues at the bottom.  Janice.
+
+Three top-of-the-line ballpoint pens in red, black, and green.  Dave.
+
+A tin of salon-quality hair gel as a joke.  Clara.
+
+A psychedelic-colored, stuffed platypus.  Bea.
+
+A dozen other things that I could drop off at the desk of the person who gave it to him if I had to.  Even the Mayan-themed coffee mug came from that intern whose name I forgot.  None of it fit together.  None of it was really his.  None of it had his aura.  The gestalt looked more like a poorly planned showroom mockup than a real person’s space.
+
+The impulse to take a closer look gripped me.  More than that, I dared to sit in his chair.  To satisfy my curiosity about what the world looked like from his perspective.  I thought something would click.  That putting myself into his position would reveal something important about him.
+
+Whatever I had expected to find was not there.  I saw another angle on the same view I had from my identical office chair.  I shook my head, stood up, and returned to my desk.
+
+Comparing his cubicle to mine, it dawned on me how stark my space was.  Nothing I had brought.  No gifts.  Just a pile of pens on a messy stack of paperwork.  An office artifact someone could have accidentally left at a vacant desk in a moment of distraction.
+
+The only thing that betrayed the fact that the cubicle had an occupant was the lack of dust on the keyboard.  Compared to the warren of dust bunnies building up behind the moni—there was something behind the monitor.
+
+I pulled out the object and nearly lost my composure.  There was a trash can by the printer.  I walked up to it.  I moved aside a ream of discarded paper.  I dropped the squishy shark into the can.  I buried it.
 
 The rest of the day, I repaid code debt.  Fixing formatting.  Adding and updating documentation.  Leaving comments to remind myself to refactor a few poorly written functions.  All the mindless tasks that make up the bureaucracy of programming.
 
-I only stopped when Bea flicked the lights on and off to get my attention.  It was going on 6:30 pm, and she was on her way out.  She reminded me to kill the lights before I left.  I told her I would and said goodnight.  Another ten minutes of staring at my cursor blink.  Finally, I pushed my final commit for the day and stood up to leave.  Lights out.  Checked that the door locked after me.  Drifted to my car.  Reached out to open the door.  The shark was shoved into the handle.
+I only stopped when Bea flicked the lights on and off to get my attention.  It was going on 6:30 pm, and she was on her way out.  She reminded me to kill the lights before I left.  I told her I would and said goodnight.
 
-“I get the feeling that you and Ryan had a fight?”  Switch sat cross-legged on the hood of his car just a few spaces away from mine.  He was even smoking.  I was so out of it that I had missed the smell.
+For ten minutes, I stared at my cursor’s blinking.  Finally, I pushed my final commit for the day and stood up to leave.  Lights out.  Checked that the door locked after me.  Drifted to my car.  Reached out to open the door.  The shark was shoved into the handle.
 
-“It’s whatever.”  I fished the toy out from the handle.  “You want it?”  He held out a hand, so I tossed it to him.  His catch was clumsy, but that may have been more on my bad throw than his hand-eye coordination.  He stuffed the shark into his pocket.  I opened the car door and tossed my messenger bag into the passenger seat.
+“I get the feeling that you and Ryan had a fight?”  Switch sat cross-legged on the hood of his car a few spaces away from mine.  He was smoking.  I was so out of it that I had missed the smell.
+
+“It’s whatever.”  I fished the toy out of the handle.  What was I supposed to do with it?  “You want it?”
+
+He held out a hand, so I tossed it to him.  His catch was clumsy, but that may have been more on my bad throw than his hand-eye coordination.  He stuffed the shark into his pocket.  I opened the car door and threw my messenger bag into the passenger seat.
 
 “I think it would be a good idea if you hitched a ride home with me.”
 
@@ -30,19 +56,19 @@ I tried to close the door anyway.  He caught my wrist.
 
 I scoffed.  “Why?  Did you mess with my tires?”
 
-In a flat tone, he said, “You didn’t notice me.  You’re so stressed that your danger sense is gone.  Stress makes you faint.  You’re going to die in a car crash if I let you drive.”  He huffed out a cloud of smoke to punctuate the point.
+In a flat tone, “You didn’t notice me.  You’re so stressed that your danger sense is gone.  Stress makes you faint.  If you faint, you’ll crash.”  He huffed out a cloud of smoke to punctuate the point.  “Letting you drive would be as irresponsible as letting someone drive drunk.”
 
-I hated to admit it, but he was right.  My current ties to physical reality were tenuous at best.  I would have been a safer driver completely wasted.  Besides, I had ridden with him before and survived it.  What difference did one more trip make?
+Drive drunk.  My shoulders hunched up when he used those specific words.  I hated to admit it, but he was right.  My current ties to physical reality were tenuous at best.  Honestly, I would have been a safer driver completely wasted.  Besides, I had ridden with him before and survived it.  What difference did one more trip make?
 
 “Fine.”
 
 I stood back up.  He reached past me to grab my bag from the passenger seat and hand it to me.  Like a chauffeur, he closed my car’s door, shepherded me to the passenger side of his car, and opened that door for me.  I settled in, wrapping myself around my bag and closing my eyes.
 
-The clunk the passenger and driver side car doors closing.  The growl of the engine coming to life.  A momentary blast of loud pop music before he turned it down to background levels.  The shift in momentum as car started rolling.  I savored the vain hope that he would leave me in peace.
+The clunk of the passenger-side and then driver-side car doors closing.  The growling engine came to life.  A momentary blast of loud pop music before he turned it down to background levels.  The shift in momentum as the car started rolling.  I savored the vain hope that he would leave me in peace.
 
 “Ryan told me what happened between you two last night.”
 
-I replied with a noncommittal hum through the fabric of my bag.
+I replied with a noncommittal hum through my bag’s fabric.
 
 “Can I be frank?”
 
@@ -52,13 +78,13 @@ A weak shrug.
 
 “Why?”
 
-“Because <i>we</i> were making progress.  That progress hinges on you feeling like you have him as a safety blanket to fall back on if I do… something…  Honestly, I haven’t the slightest clue what it is you think I’m going to do to you, but that’s neither here nor there.  This is a step backwards.  I’m not happy about it.”
+“Because <i>we</i> were making progress.  That progress hinges on you feeling like you have him as a safety blanket in case I… do something…  Honestly, I haven’t the slightest clue what it is you think I’m going to do to you, but that’s neither here nor there.  This is a step backwards.  I’m not happy about it.”
 
 “It is what it is.”
 
 “I’m not willing to accept that.”  He turned off the radio.  “I haven’t said anything to Ryan since he told me.  I was too furious with him to comment, not that I let him see that.  But, because I have not yet stated an opinion on the matter, I still have the freedom to tell Ryan he’s overreacting.  That he should be more patient with you.  You would like that, wouldn’t you?”
 
-The fluttering of hope in my gut made me feel queasy.  “What’s in it for you?”
+The fluttering hope in my gut made me feel queasy.  “What’s in it for you?”
 
 “I told you: it’s in my best interest.  We’re never going to be able to talk if you don’t feel safe with me.  Therefore, I value your relationship with Ryan.”  He gave the curt, confident nod of a mathematician overlooking the elegance of his blackboard proof.
 
@@ -66,17 +92,21 @@ The fluttering of hope in my gut made me feel queasy.  “What’s in it for you
 
 He laughed politely.  “You’re always such a pessimist.  It doesn’t hurt to try, does it?”
 
-From the charred perspective of the burnt bridge, no, it would not hurt me any further.  There was nothing to lose.  In fact, it could help Ryan.  He was so weary of the game.  Maybe he would finally gather up his toys and go home if Switch insisted that we keep playing.
+From the charred perspective of a burnt bridge, no, it would not hurt me any further.  There was nothing to lose.  In fact, it could help Ryan.  He was so weary of the game.  Maybe he would finally gather his toys and go home if Switch insisted that we keep playing.
 
-Only, even as hurt as I was, I did not want that.  I stopped seeing Switch as an overall monster.  He was merely destructive to himself and his relationships.  Maybe he would have been fine with nuking what he had with Ryan, but it would have hurt Ryan.  And, whether Switch was capable of realizing it or not, it would have hurt him too.
+Only, even as hurt as I was, I did not want that.  I had stopped seeing Switch as an overall monster.  He was merely selfishly destructive.  He thought he would be fine with nuking his relationship with Ryan.  But it would have hurt Ryan.  And, whether Switch was capable of realizing it or not, it would hurt him too.
 
-The sound of tapping.  I glanced over to him, but his fingers were still.  The clicking was the turn signal.  Somehow, we were already at the turn for Blossom’s parking lot.  “I don’t….”  I cleared my throat.  “You shouldn’t be putting your friendship with him on the line for me.”
+A tapping sound.  I glanced over to him, but his fingers were still.  It was the turn signal.  Somehow, we were already at the turn for Blossom’s parking lot.
+
+“I don’t….”  I cleared my throat.  “You shouldn’t be putting your friendship with him on the line for me.”
 
 “But I want to.  He’s forcing me to pick between you and him, don’t you see that?”
 
 “Not really.”
 
-He sighed as he made the turn.  The car pulled into the spot under the maple tree at the back of the lot.  I considered asking him to move the car over.  That request would either require me to give an in-depth explanation of my neuroticism about the white car or he would understand immediately.  Both outcomes were uncomfortable.  He unbuckled his seatbelt and turned to face me.  “Look, this is how it works:  Ryan backs away from you.  He starts telling me how you’re a bad influence on me—”
+He sighed as he made the turn.  The car pulled into the spot under the maple tree at the back of the lot.  I considered asking him to move the car over.  That request would either require an in-depth explanation of my neuroticism about the white car, or he would understand immediately.  Both outcomes were uncomfortable.
+
+He unbuckled his seatbelt and turned to face me.  “Look, this is how it works:  Ryan backs away from you.  He starts telling me how you’re a bad influence on me—”
 
 “I’m a bad influence on <i>you</i>?  He said that?”
 
@@ -86,27 +116,27 @@ Before I could stop myself, I blurted out, “Who are you going to pick?”
 
 His smile twitched.  “You know who I’m going to pick.”
 
-That non-answer gave me a creeping twinge of conflicted relief.  This force of nature in human form was now the only thing standing between me and complete isolation.  “I don’t know.  That doesn’t really sound like Ryan.”
+That non-answer gave me a creeping twinge of conflicted relief.  This force of nature in human form was the only thing standing between me and total isolation.  “I don’t know.  That doesn’t sound like Ryan.”
 
-“After that campaign he waged against you when he thought you hurt me?  Honey, it’s adorable how you idolize him, but it’s blinded you to his real character.”
+“After that campaign he waged against you when he thought you hurt me?  Honey, it’s adorable how you idolize him, but it’s blinded you to his real character.  He’s got plenty of bad in him.”
 
 The words hemorrhaged out of me: “In other words, I shouldn’t try to fix things with him anyway.  He’s a piece of shit just like you.”
 
-“No, I’m just saying—"
+“No, I’m just saying—”
 
-I unbuckled my seatbelt and got out of the car.  I quick walked to the apartment complex, but he was fast on my heels and beat me to the door.  He held it open for me.
+I unbuckled my seatbelt and got out of the car.  I quick-walked to the apartment complex.  He was fast on my heels and beat me to the door.  He held it open for me.
 
-“I’m trying to say that Ryan has a bit of a penchant for revenge.   That’s all.  And it’s all the more reason to get you two talking again.”
+“I’m trying to say that Ryan has a penchant for revenge.  That’s all.  And it’s all the more reason to get you two talking again.”
 
 “I don’t want to.”
 
-“Just let me take care of—"
+“Just let me take care of—”
 
 “HE HATES ME, DON’T YOU GET THAT!?”
 
-My words echoed back in the empty foyer over my ragged breathing.  We both froze.  My inner critic went into overdrive.   <i>Screaming about your angst in the silent lobby.  Good idea, genius.  Bravo.  </i>All I wanted to do was get my self-mortified ass up the staircase and lock myself in my apartment for the rest of eternity.
+My words echoed in the empty foyer over my ragged breathing.  We both froze.  My inner critic went into overdrive.  <i>Screaming about your angst in the silent lobby.  Good idea, genius.  Bravo.  </i>All I wanted to do was get my self-mortified ass upstairs and lock myself in my apartment for the rest of eternity.
 
-When I turned to leave, he caught me by the shoulder.  He rotated with me to stay in my line of sight.  “Hey, I know this rough on you, but—” He caught my eyes, and his expressive tone died.  “What?”
+When I turned to leave, he caught me by the shoulder.  He rotated with me to stay in my line of sight.  “Hey, I know this is rough on you, but—” He caught my eyes, and his expressive tone died.  “What?”
 
 “Don’t pull that fake sympathy shit on me.”
 
@@ -114,37 +144,55 @@ When I turned to leave, he caught me by the shoulder.  He rotated with me to sta
 
 “Just tell me what you want.”
 
-He crossed his arms and took a step back, considering the demand.  Something about his posture signaled vulnerability to me.  Reminded me of when he said he was not ready to speak honestly.  After scanning the area, he whispered, “I want you to go upstairs.  Freshen up.  Take a shower if it suits you.  But get yourself together and then come to my place.  I’ll make you dinner.  I know you’ve been eating a lot of greasy takeout, and that’s not good for you.  We’ll come up with a plan to fix the Ryan situation over pasta.  That’s what I want.  Understood?”
+He crossed his arms and took a step back, considering the demand.  Something about his posture signaled vulnerability to me.  Reminded me of when he said he was not ready to speak honestly.
 
-It was my turn to tightly step back.  To consider the risk.  To consider the potential reward.  Understand that I had no faith in Switch’s ability to mend my “relationship” with Ryan.  What we had was a farse.  It was me imaging friendship in what Ryan perceived as an unwritten, contractual obligation.  But if I could survive Switch’s invitation, I could buy myself time to lick my raw wounds.  “If I do this, you have leave me alone for the rest of the month.”
+After scanning the area, he whispered, “I want you to go upstairs.  Freshen up.  Take a shower if it suits you.  But get yourself together and then come to my place.  I’ll make you dinner.  I know you’ve been eating a lot of greasy takeout, and that’s not good for you.  We’ll come up with a plan to fix the Ryan situation over pasta.  That’s what I want.  Understood?”
 
-He held up a finger.  “Except for anything we have to do together to fix the Ryan problem.  And work of course.”
+It was my turn to tightly step back.  To consider the risk.  To consider the potential reward.  Understand,  I had no faith in Switch’s ability to mend my “relationship” with Ryan.  What we had was a farce.  It was me imagining friendship in what Ryan perceived as a contractual obligation.
+
+But if I could survive Switch’s invitation, I could buy myself time to lick my raw wounds.  “If I do this, you have to leave me alone for the rest of the month.”
+
+He held up a finger.  “Except for anything we have to do together to fix the Ryan problem.  And work, of course.”
 
 “Yeah.  Fair.”
 
-He gave a wide shrug then dropped his hands to his sides.  “I’ll see you in 30 minutes then.”  After a quick wave, he turned his back to me and strode over to the elevator.  I snuck over to the stairs and sheepishly ascended them.  The polite part of my brain chided me for so obviously avoiding him.  The part concerned with self-preservation overruled it.  I was going to need all the stamina I could muster to handle a dinner date with him.
+He gave a wide shrug then dropped his hands to his sides.  “I’ll see you in 30 minutes then.”  After a quick wave, he turned his back to me and strode over to the elevator.
 
-When I reached my apartment, I dropped my messenger bag on the floor and stumbled into the kitchen.  I downed a glass and a half of water.  The rest of the second glass went down with two aspirin.  My next stop was the bathroom.  Taking a shower while I waited for the painkillers to kick in sounded like a good idea.  I spun the faucet to just below scalding and stripped out of my work clothes.  Step in, kneel, lower myself onto my side, and curl up into the fetal position.
+I snuck to the stairs and sheepishly ascended them.  The polite part of my brain chided me for so obviously avoiding him.  The part concerned with self-preservation overruled it.  I was going to need all the stamina I could muster to handle a dinner date with him.
 
-Rivulets of water meandered over my body, leaching the salt and sweat from my skin.  A little puddle of water pooled in my hand.  Occasionally, it overflowed in sudden bursts.  As I watched it, I wondered if the water could take all of me.  That, if I laid there long enough, it would peel me back layer by layer into nothing as surely as it could dissolve mountains.  An exquisite, gentle lapse into nonexistence.
+When I reached my apartment, I dropped my messenger bag on the floor and stumbled into the kitchen.  I downed a glass and a half of water.  The rest of the second glass went down with two aspirin.
 
-I climbed out of the shower when I got tired of snorting out the water that inevitably found a path right into my nose.  After I toweled off, I tried to smooth down my hair in the mirror.  My messy crew cut was too short to justify owning a brush or comb.  This was the first time I regretted that.
+My next stop was the bathroom.  Taking a shower while I waited for the painkillers to kick in sounded like a good idea.  I spun the faucet to just below scalding and stripped out of my work clothes.  Stepped in, kneeled, lowered myself onto my side, and curled into the fetal position.
 
-I knew that matching his meticulous styling was unobtainable, but I still wanted to look halfway decent.  This could not turn into a repeat of the dissonance between us when I had met him elevator.  It was then I remembered my massive pile of dirty clothes and cringed.  I looked down.  My work clothes were in a crumpled mass on the floor, spotted with wayward drops of water.  I did not own an iron to smooth them back out.
+Rivulets of water meandered over my body, leaching the salt and sweat from my skin.  A puddle of water pooled in my hand.  Occasionally, it overflowed in sudden bursts.  As I watched it, I wondered if the water could take all of me.  That, if I laid there long enough, it would peel me away layer by layer into nothing as surely as it could dissolve mountains.  An exquisite, gentle lapse into nonexistence.
 
-With a huff, I picked through the clothes pile to find my watch.  It was already five minutes past the half hour he had given me to “freshen up.”  At any second, he might knock, demanding to know what was taking me so long.  Insisting on coming in.  How was I supposed to make myself look presentable when I was barely functioning as a human being?  I stared at the ticking second hand, crippled by indecision.
+I climbed out of the shower when I got tired of snorting the water that inevitably found a path right into my nose.  After I toweled off, I tried to smooth down my hair in the mirror.  My messy crew cut was too short to justify owning a brush or comb.  This was the first time I regretted that.
+
+I knew matching his meticulous styling was unattainable, but I wanted to look halfway decent.  This event would not rehash the difference in class I had felt between us when we met in the elevator the day he moved in.  It was then I remembered my massive pile of dirty clothes and cringed.
+
+I looked down.  My work clothes were in a crumpled mass on the floor, spotted with wayward drops of water.  I did not own an iron to smooth them back out.
+
+With a huff, I picked through my clothes to find my watch.  It was already five minutes past the half hour he had given me to “freshen up.”  At any second, he might knock, demanding to know what was taking me so long.  Insisting on coming in.  How was I supposed to make myself look presentable when I was barely functioning as a human being?
+
+I stared at the ticking second hand, crippled with indecision.
 
 One sickly, forgotten neuron started firing.  <i>Why are you catering to him?  What would it matter if you showed up in a clown suit, complete with the red nose and rainbow wig?  Who cares if that psycho likes you or not?
 </i>
-The problem was someone did care.  <i>I cared</i>.  I wanted that fake, scheming, charming, popular imposter to like me.  I hated myself for that.  It was like being some loser in middle school courting the attention of the cool kids.  Jumping the hoops and dancing the dance because self-confidence was in short supply and cliques were everything.  Only those brats were not half the operator he was.  Then again, nor was I some gullible kid anymore.
+The problem was someone did care.  <i>I cared</i>.  I wanted that fake, scheming, charming, popular imposter to like me.  I hated myself for that.
+
+It was like being some loser in middle school, courting the attention of the cool kids.  Jumping the hoops and dancing the dance because self-confidence was in short supply and cliques were everything.  Only those brats were not half the operator he was.
+
+Then again, nor was I some gullible kid anymore.
 
 Shaking my head quickly, I let my hair tousle the way it was naturally supposed to.  I went to my bedroom nook, grabbed a cleaner pair of jeans and a dark blue tee from the dirty pile.  They passed the smell test, so I judged them “good enough” and put them on.
 
-When all was said and done, I stood in the middle of my apartment staring at empty space.  This was “me.”  Sure, I felt nothing like myself on the inside, but at least I looked the part.  That was more than half the battle.  I grabbed my running shoes and headed out the door.
+When all was said and done, I stood in the middle of my apartment staring into empty space.  This was “me.”  Sure, I felt nothing like myself on the inside, but at least I looked the part.  That was more than half the battle.  I grabbed my running shoes and headed out the door.
 
-Initially, I went to the far end of the hall where the staircase was.  My usual route.  I got as far as wrapping my hand around the door handle to the stairwell before I turned back around.  Taking the stairs down to his apartment would associate them with him.  Contaminate them.  I called the elevator and rode it to the third floor in a daze.  I exited.  I walked to unit 303.  My knock was a single, whispered tap.
+Initially, I went to the far end of the hall where the staircase was.  My usual route.  I got as far as wrapping my hand around the door handle to the stairwell before I turned back around.  Taking the stairs down to his apartment would associate them with him.  Contaminate them.
 
-The door opened on his smug smile, dressed in a pristine formal-casual outfit.  As he briefly looked me up and down, I thought he would say “about time.”  Instead, he asked, “Did the shower help?”
+I called the elevator and rode it to the third floor in a daze.  I exited.  I walked to unit 303.  My knock was a single, whispered tap.
+
+The door opened on his smug smile, dressed in pristine formal-casual.  As he briefly looked me up and down, I thought he would say, “About time.”  Instead, he asked, “Did the shower help?”
 
 “A bit, I guess.”
 
@@ -152,27 +200,31 @@ The door opened on his smug smile, dressed in a pristine formal-casual outfit.  
 
 Through that threshold, I walked out of Blossom and into some ritzy, upscale complex.  In violation of the lease agreement, he had painted the back wall of the apartment, the baseboards, switch plates, and window frames sleek black.  It made the yellows in his upholstery shine.  His one cream couch had become two, joined in an L shape with a side table.  They were positioned to view his huge TV with stereo speakers on either side.
 
-His bedroom nook was veiled by a white sheer curtain tied back just far enough for someone to walk through.  Through that gap, I spied a corner bookcase stuffed with paperbacks.  There were abstract paintings on the walls of both rooms.  He had hung a goddamn chandelier in the main area.  The kitchen cabinets were in the same black as the accent wall with brand-new, gold handles and hinges.  The only things proving that this space was still Blossom were the scuffed and scratched laminate counter tops and ugly kitchen tiling.
+His bedroom nook was veiled by a white sheer curtain tied back just far enough for someone to walk through.  Beyond that gap, I spied a corner bookcase stuffed with paperbacks.  There were abstract paintings on the walls of both rooms.  He had hung a goddamn chandelier in the main area.
+
+The kitchen cabinets were in the same black as the accent wall with brand-new, gold handles and hinges.  The only things proving this space was still Blossom were the scuffed and scratched laminate countertops and ugly kitchen tiling.
 
 He chuckled.  “You like what I’ve done.”  It was undoubtedly a statement, not a question.
 
 “It’s… We don’t make this kind of money.”
 
-“Trust me we do.  It’s not like I was able to upgrade the oven and fridge.”
+“Trust me, we do.  It’s not like I was able to upgrade the oven and fridge.”
 
-He waved a hand dismissively as he went into the kitchen.  There was a pot of water well past boiling and an open box of pasta at the ready.  He poured its contents into the pot then stirred something on another burner.  I had to take a few steps into the apartment to see that it was a pan of red sauce.  The oven light was on too, though I could not see what was in it.  He opened one of the upper cabinets to pull down a pair of wine glasses and place them on the counter.
+He waved a hand dismissively as he went into the kitchen.  A pot of water well past boiling and an open box of pasta stood at the ready.  He poured its contents into the pot then stirred something on another burner.  I had to take a few steps into the apartment to see that it was a pan of red sauce.  The oven light was on too.  He opened one of the upper cabinets to pull down a pair of wine glasses and place them on the counter.
 
-“I—"
+“I—”
 
-He rifled around in a lower cabinet as he spoke over me.  “So, about the Ryan situation.”  The inevitable bottle of red wine materialized in his hand.  He started pouring the first glass.  “It seems to me that he’s most upset about always playing middle-man.  I don’t think he likes having to question whether either of us is telling him the whole story.”  Before he could fill the second glass, I slid it out of reach.  He paused.
+“So, about the Ryan situation…”  He rifled through a lower cabinet as he spoke over me.  The inevitable bottle of red wine materialized in his hand.  He started pouring the first glass.  “It seems to me that he’s most upset about always playing middleman.  I don’t think he likes having to question whether either of us is telling him the whole story.”
 
-“I don’t really drink.”
+Before he could fill the second glass, I slid it out of reach.  He paused.
 
-“Not even one little glass of wine?  With Italian food?”
+“I don’t drink.”
+
+“Not even one little glass of wine?  With Italian?”
 
 I shrugged.
 
-“Don’t or can’t?”  I retracted my hands and fidgeted with the lint in my jeans’ pockets.  He slid my glass back towards his and filled it anyway.  “Well, I won’t force you, but it’s your loss if you don’t even try.  Especially when it’s this bottle.  I’m embarrassed to say I don’t know much about wine myself, but Janice assured me it’s the right type to pair with red sauce and a decent year.  Just don’t let her know I’m pairing it with a canned sauce.  She’d be horrified.”
+“Don’t or <i>can’t</i>?”  I retracted my hand and fidgeted with the lint in my jeans’ pockets.  He slid back into range and filled it anyway.  “Well, I won’t force you, but it’s your loss if you don’t even try.  Especially when it’s this bottle.  I’m embarrassed to say I don’t know much about wine myself, but Janice assured me it’s the right type to pair with red sauce and a decent year.  Just don’t let her know I’m pairing it with jarred sauce.  She’d be horrified.”
 
 “Do we really have to do this?”
 
@@ -184,17 +236,19 @@ He stiffly put down the wine bottle with a disquieting thud.  “I will say this
 
 There were no words to respond to that, so I just looked at my feet and nodded.
 
-Luckily, a burbling of sauce bubbles exploding into tomato puree shrapnel caught his attention.  He turned away from me, humming a note of disapproval as he wiped up the mess with a dish towel.  “I have some grape juice instead if that suits you.  Ignoring the sweetness, it’s close enough to wine.”
+Luckily, a burbling of sauce exploding into tomato purée shrapnel caught his attention.  He turned away from me, humming a note of disapproval as he wiped up the mess with a dish towel.
+
+“I have some grape juice instead if that suits you.  Ignoring the sweetness, it’s close enough to wine.”
 
 “Sure.”
 
-“Fantastic.”  He dumped the second glass’s contents into the sink and turned to the fridge.  “Feel free to make yourself at home by the way.  We’ll be eating on the couches since there just isn’t enough space in here for a proper dining set.”
+“Fantastic.”  He dumped the second glass’s contents into the sink and turned to the fridge.  “Feel free to make yourself at home, by the way.  We’ll be eating on the couches.  There just isn’t enough space in here for a proper dining set.”
 
-My hands buried deeper into my junky jeans as I made another unseeing appraisal of the lavish excess surrounding me.  He had done nothing with the balcony though.  I went to the window doors and leaned against them.  The sparkling city lights looked the same here as from my floor.  Pulsing flickers of the real to keep me grounded in this dark Wonderland.
+My hands buried deeper into my junky jeans as I made another unseeing appraisal of the lavish excess surrounding me.  He had done nothing with the balcony though.  I went to the window doors and leaned against them.  The sparkling city lights looked the same here as from my floor.  Pulsing flickers of reality to keep me grounded in this dark Wonderland.
 
-My gaze drifted to a low display cabinet in front of the glass panel.  The blue vase for Janice’s peace lily at on the top shelf.  It looked like shit.  Rotted.  It had sunken under the dingey water and flipped upside down like a bloated goldfish.  What few leaves it had left were shredded, lobbed spikes.  It looked nothing like a peace lily anymore.
+My gaze drifted to a low display cabinet in front of the glass panel.  The blue vase for Janice’s peace lily sat on the top shelf.  The lily looked like shit.  Rotted.  It had sunken under the dingy water and flipped upside down like a bloated goldfish.  What few leaves it had left were shredded, lobbed spikes.  It looked nothing like a peace lily anymore.
 
-And then I saw the actual peace lily, looking a little wilted but otherwise fine, on the lower shelf.  I started at it and the organism in the vase.  Not comprehending what I was seeing.  Shaking as my subconscious pieced the horror together.
+And then I saw the actual peace lily high and dry on the lower shelf.  A little wilted but otherwise fine.  I started at it and the organism in the vase.  Not comprehending what I was seeing.  Shaking as my subconscious pieced the horror together.
 
 A hand on my shoulder made me flinch.  “I meant to put that away.”  He reached around me to pick up the blue vase.
 
@@ -202,11 +256,17 @@ I grabbed his wrist in an iron grip I had not known I was capable of.  My voice 
 
 “Do you want the truth?”
 
-My legs crumpled.  Somehow, I maintained my death grip on Switch, pulling him down with me.  Indignantly half-kneeling, he frowned but made no effort to free himself or pull me back up.  I think he asked me the same question again.  All I could manage was, “Why?”
+My legs crumpled.  Somehow, I maintained my death grip on Switch, pulling him down with me.  Indignantly half-kneeling, he frowned but made no effort to free himself or pull me back up.  I think he asked me the same question again.
 
-“I could tell you it was a surprise.”  He resigned himself to sitting cross-legged in front of me.  His fingers endeavored to pry open my unyielding grasp.  “That I found Charlie, and he looked dreadful.  You know that the peace lily meant nothing to me, so I was comfortable with sacrificing it to try and save Charlie.  Janice has grown so many sticks and leaves into full plants by just sticking them in water.  Surely, I could believe that some of her magic would have rubbed off into that vase, and Charlie would resurrect himself if given enough time and sunlight.
+All I could manage was, “Why?”
 
-“I could tell you that I wanted to give him back to you when he was healthy again.  That I wanted to prove to you that I don’t just break things.  I can heal them too.  It just has to matter enough to me.”  By that point he had freed his pale hand.  He flexed it a few times to help the blood start circulating again.  My nails had left deep dents in his wrist.  He tried to rub them flat.  “If I said that to you, would it make you happy?”
+“I could tell you it was a surprise.”  He resigned himself to sitting cross-legged in front of me.  His fingers endeavored to pry open my unyielding grasp.  “That I found Charlie, and he looked dreadful.  You know that the peace lily meant nothing to me, so I was comfortable sacrificing it to save Charlie.
+
+“Janice has grown so many sticks and leaves into full plants by just sticking them in water.  Surely, I could believe some of her magic would have rubbed off into the vase.  That Charlie would resurrect himself if given enough time and sunlight.
+
+“I could tell you that I wanted to give him back to you when he was healthy again.  That I wanted to prove to you that I don’t just break things.  I can heal them too.  It just has to matter enough to me.”
+
+By that point, he had freed his pale hand.  He flexed it a few times to help the blood start circulating again.  My nails had left deep dents in his wrist.  He tried to rub them flat.  “If I said that to you, would it make you happy?”
 
 “It’s all bullshit though.”
 
@@ -222,7 +282,7 @@ Even through static vision, black looks jet black.  At least the margins of what
 
 “Why?”
 
-“Because it meant so much to you, that I had to have it.  So, I took it.”  He closed his eyes and gave a shallow shrug.  “And then once I had it, I realized I didn’t want it.  I dropped it into the vase because couldn’t think of anything better to do with it.”
+“Because it meant so much to you, that I had to have it.  So, I took it.”  He closed his eyes and gave a shallow shrug.  “And then once I had it, I realized I didn’t want it.  I dropped it in the vase because I couldn’t think of anything better to do with it.”
 
 “You could have given Charlie back to me.”
 
@@ -232,23 +292,35 @@ I nodded, hearing, but not comprehending.  I struggled to my feet.  He watched m
 
 “You’re not leaving.  We haven’t had dinner.”
 
-Somehow, my posture slumped further.  “Okay.”  He patted me on the shoulder as he entered the kitchen.  The click of the burner turning off.  The metal jiggle of the pasta pan lifting.  The swish of hot water pouring out into the sink.  I leapt at the door.  The clang as the pot dropped.  I turned the door handle and pulled it open.  Started choking.  Stumbled back.  He had my shirt collar.  He kicked the door closed and pinned me into a corner.
+Somehow, my posture slumped further.  “Okay.”
 
-“No.”  Just that one word.  Like he was discipling a dog.  I slid down onto the floor.  “You’re not going to do that again.  You leave <i>after</i> dinner.”
+He patted me on the shoulder as he entered the kitchen.  The click of the burner turning off.  The metal jiggle of the pasta pan lifting.  The swish of hot water pouring out into the sink.
+
+I leapt for the door.  The clang as the pot dropped.  I turned the door handle and pulled it open.  Started choking.  Stumbled back.  He had me by the neck.  He kicked the door closed and pinned me into a corner.
+
+“No.”  Just that one word.  Like he was disciplining a dog.
+
+I slid down onto the floor.
+
+“You’re not going to do that again.  You leave <i>after</i> dinner.”
 
 I gave up then.  I wrapped my arms around my knees and pushed myself further into the corner.  He finished draining the pasta and plated it up with sauce and burnt garlic toast that was more garlic than toast.  He placed it and a wine glass beside me.  On his second trip, he put down two sets of forks and linen napkins.  Finally, he got his own plate and wine and settled himself on the floor in front of me.
 
 He raised his glass.  “To friendship.”
 
-I gaged on the bile in my throat.
+I gagged on the bile in my throat.
 
-“You know, you’re right.  Forget friendship.  <i>To honestly.</i>”
+“You know, you’re right.  Forget friendship.  <i>To honesty.</i>”
 
 I shook my head.
 
-“Pick.  Up.  Your.  Glass.”  To make it stop, I grabbed the glass and roughly clinked his, splashing red liquid on the floor.  He tsked, wiping the mess up with my napkin.  After tossing the stained thing back towards my plate, he brought his glass to his lips.  It hovered there as he stared at me.  “We both have to drink, you know.”
+“Pick.  Up.  Your.  Glass.”
 
-I took the barest sip.  It had a bite of extra sweetness, but at best he had given me wine with a splash a grape juice in it.  More likely, it was straight up wine.  I so wanted to down it.  To stand up and grab the bottle and swallow all of it too.  Being drunk could only help the situation.  Better yet if it gave me alcohol poisoning.  I would get to go the hospital.  Escape this nightmare.  Maybe it would permanently end all of it for me.
+To make it stop, I grabbed the glass and roughly clinked his, splashing red liquid on the floor.  He tsked, wiping the mess up with my napkin.  After tossing the stained thing back towards my plate, he brought his glass to his lips.
+
+It hovered there as he stared at me.  “We both have to drink, you know.”
+
+I took the barest sip.  It had a bite of extra sweetness, but at best, he had given me wine with a splash of grape juice in it.  More likely, it was straight-up wine.  And I so wanted to down it.  To stand up and grab the bottle and swallow all of that too.  Being drunk could only help this situation.  Better yet if it gave me alcohol poisoning.  I would get to go to the hospital.  Escape this nightmare.  Maybe it would permanently end all of it for me.
 
 Waving a slimy coil of red noodles around on his fork, he said, “I thought you didn’t drink.”
 
@@ -262,19 +334,25 @@ He chuckled.  “What?  Are you a recovering alcoholic or something?”
 
 “What?”
 
-“Eat your dinner.”  I picked up my plate and my fork.  That was enough to convince him to continue.  “You don’t want me to fix things with Ryan.  So, why would I waste my time talking about it?  I want to talk about you.  I want to talk about me.  Ryan doesn’t fit into that equation unless you want him to.”
+“Eat your dinner.”
 
-“I want to fix things with—"
+I picked up my plate and my fork.
+
+That was enough to convince him to continue.  “You don’t want me to fix things with Ryan.  So, why would I waste my time talking about it?  I want to talk about you.  I want to talk about me.  Ryan doesn’t fit into that equation unless you want him to.”
+
+“I want to fix things with—”
 
 “DO NOT LIE TO ME!”  His plate and fork clattered onto the floor.  “You cannot make me be honest and then lie!”
 
 “Ryan doesn’t want to fix things, and I want to respect that!”
 
-All traces of his previous anger vanished.  “So why are you forcing me to talk about it?”
+All traces of his previous anger vanished.  “So then why are you asking me to talk about it?”
 
-What alien world had I found myself in that this happening?  How could a real person be like this?  “I can’t do this.”  I put my plate to the side, but he shoved it right back into my hands.  “I <i>cannot</i> do this.  I can’t!”
+What alien world had I found myself in that this was happening?  How could a real person be like this?  “I can’t do this.”  I put my plate to the side, but he shoved it right back into my hands.  “I <i>cannot</i> do this.  I can’t!”
 
-His lips curled as if he were about to scream at me again, but he leaned back instead.  His expression faded to nothing.  “This is all wrong.  It’s not supposed to go like this.  You’re… not ready.”  He shook his head and repeated, “You’re not ready.”  A long sigh.  “I thought when I was ready you would be too.  I thought when you asked for the truth, that meant <i>you could take it</i>.”  A frustrated huff.  “You’re not ready.”  He kept mumbling those three words like a chat as he gently rocked back and forth.  He ended with a “Goddamn it!”
+His lips curled as if he were about to scream at me again, but he leaned back instead.  His expression faded to nothing.  “This is all wrong.  It’s not supposed to go like this.  You’re… not ready.”  He shook his head and repeated, “You’re not ready.”
+
+A long sigh.  “I thought when I was ready, you would be too.  I thought when you asked for the truth, that meant <i>you could take it</i>.”  A frustrated huff.  “You’re not ready.”  He kept mumbling those three words like a chant as he gently rocked back and forth.  He ended with a “Goddamn it!”
 
 I shrank into myself.  His shoulders sank as his dull grey eyes fell on me.  “Finish eating and then leave.”
 
@@ -282,12 +360,14 @@ I shrank into myself.  His shoulders sank as his dull grey eyes fell on me.  “
 
 “Finish.  Eating.”  As I shook my head, he added, “I can feed you if you’d prefer that.”
 
-I picked up the fork.  My first few attempts to swirl pasta failed.  The noodles kept falling back onto the plate, because my hands were shaking too much.  I finally got three, sticky, sauceless, overcooked noodles trapped in the tines of my fork.  I scraped them off with my teeth.  I chewed and swallowed, tasting nothing.  I repeated the action like an assembly line machine until all that remained on the plate was chunky, cold tomato water.
+I picked up the fork.  My first few attempts to swirl pasta failed.  The noodles kept falling back onto the plate because my hands were shaking too much.  I finally got three sticky, sauceless, overcooked noodles trapped in the tines of my fork.  I scraped them off with my teeth.  I chewed and swallowed, tasting nothing.  I repeated the action like an assembly line machine until all that remained on the plate was chunky, cold tomato water.
 
 “Your wine too.”
 
-I grabbed the glass and swallowed its contents without thought or hesitation.  Then there was silence as I waited for permission to leave.  He did the dishes while I sat on the floor.  Out of touch with both reality and my inner mind.  I was just there.  After he started the dishwasher, he walked to the blue vase.  He picked out the gooey lump of festering rot.  When he returned to me, he placed it in my hand.
+I grabbed the glass and swallowed its contents without thought or hesitation.  Then there was silence as I waited for permission to leave.
+
+He did the dishes while I sat on the floor.  Out of touch with both reality and my inner mind.  I was just there.  After he started the dishwasher, he walked to the blue vase.  He picked out the gooey lump of festering rot.  When he returned to me, he placed it in my hand.
 
 “You’re free to go.  I’ll see you at work tomorrow.”
 
-He went to his bedroom niche unbuttoning his shirt.  Soon after, I found myself in the bathroom of my apartment.  Staring at a toilet full of barely digested red and purple noodle chunks.  Charlie was still in my hand.  I put him on top of the mess and flushed.
+He went to his bedroom niche, unbuttoning his shirt.  Soon after, I found myself in the bathroom of my apartment.  Staring at a toilet full of barely digested red and purple noodle chunks.  Charlie was still in my hand.  I put him on top of the mess and flushed.

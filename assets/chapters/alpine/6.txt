@@ -1,49 +1,50 @@
-In the end, I took more than Thursday afternoon off.  I went straight to the library from work.  Filled-out the harassment form.  Scanned it.  Emailed it to HR.  Went home.  Crawled into bed.  Stayed there.
+In the end, I took more than Thursday afternoon off.
 
-On Friday, I called in sick to avoid any repercussions.  The sick excuse was only half a lie.  I was so stressed that it felt like I had food poisoning.  Over the weekend, I started feeling better.  And Monday was a holiday.
+I went straight to the library.  Filled out the harassment form.  Scanned it.  Emailed it to HR.  Went home.  Crawled into bed.  Stayed there.
 
-I should have taken that day off like I was supposed to.  However, the other constant stress in my life, falling behind at work, screamed at me.  I was well-rested, and no one would be in the office.  I thought it was the perfect time to get ahead.  Or at least catch up.
+On Friday, I called in sick to avoid the repercussions.  The sick excuse was only half a lie.  I was so stressed that it felt like I had food poisoning.  Over the weekend, I started feeling better.  And Monday was a holiday.
 
-When I arrived, the parking lot was empty.  I glanced at the garage.  Also empty.  Of course it was.  I only looked because I compulsively checked the spot where he smoked any time it was within view.
+I should have taken that day off like I was supposed to.  However, the other constant stress in my life, falling behind at work, screamed at me.  I was well-rested, and no one would be in the office.  It was the perfect time to get ahead.  Or at least catch up.
 
-With a keycard swipe, I enter the building and went to my desk.  Strange how comforting the quiet space was.  Silence had eaten me alive when my colleagues stopped talking.  Silence caused by emptiness felt safe.  It made it easy to get in the zone.  To complete my tasks.  I finished more work in those few hours than I normally do in an entire week.
+When I arrived, the parking lot was empty.  I glanced at the garage.  Also empty.  Of course, it was.  I only looked because I compulsively checked the spot where he smoked any time it was within view.
 
-I got so focused on my code, that I was oblivious to his arrival.  As I pecked at my keyboard, he put down his things.  Wandered into the break room.  Poured himself an iced tea.  Settled into his chair to watch me.  His glass was half empty by the time he spoke up.  “It’s nice to see you again.”
+With a keycard swipe, I entered the building and went to my desk.  Strange how comforting the quiet space was.  Silence had eaten me alive when my colleagues stopped talking.  But silence caused by emptiness felt safe.  It made it easy to get in the zone.  To complete my tasks.  I finished more work in those few hours than I normally do in a week.
+
+I got so focused on my code that I was oblivious to his arrival.  As I pecked at my keyboard, he put down his things.  Wandered into the break room.  Poured himself an iced tea.  Settled into his chair to watch me.  His glass was half empty by the time he spoke up.  “It’s nice to see you again.”
 
 Jumping out of my goddamn skin, I spun my chair around to face him.  “When-did-you-get-in?”
 
-He shrugged.  “Maybe 15-20 minutes ago?  Sorry, I didn’t mean to scare you.  I thought you would have noticed me already.”
+He shrugged.  “Maybe 15–20 minutes ago?  Sorry, I didn’t mean to startle you.  I thought you would have noticed me already.”
 
-“No…” How had I not?  Wait.  That was how he avoided detection: no smoke smell.  Where had it gone?  Had he refrained from smoking all day to stay off my radar?  This was no chance meeting.  He planned it like this.  But how did he know I was here?
+“No…” How had I not?  Wait.  That was how he had avoided detection: no smoke smell.  Where had it gone?  Has he resisted the cigs all day?  This was no chance meeting.  He planned it like this.  But how did he know I was here?
 
 “Well, anyway, it’s good to see you working again.  Do you feel like you’ve been productive this morning?  It looks like you were.”
 
-That was how he knew:  I had made several pull requests for new features.  He had access to the Alpine code repository.  He was using the timestamps on my commits to track when I was in the office.  Since when did he knew enough about programming figure that out?  That little detail’s gravity prevented me from responding to his meaningless question.
+The answer:  I had put in pull requests for new features.  He had access to the Alpine code repository.  He was using the timestamps on my commits to track when I was in the office.  Since when did he know enough about programming figure that out?  That detail’s gravity prevented me from responding to his meaningless question.
 
 He shifted position.  “Look, let’s talk about what happened with Ryan.”
 
-I felt the heat leave my fingers and shook my head.  “No.”
+The heat left my fingers, and I shook my head.  “No.”
 
 “Please, I’m really, <i>really</i> sorry about what he did.  I don’t think I need to tell you that he’s a little bit protective of me.  I hadn’t intended for him to know about what we did.”
 
-“’We?’” I parroted back.
+“’ We?’” I parroted back.
 
 “He saw the scars, I told him to drop it, and he made some assumptions.  Things got out of hand.”
 
 “<i>We.</i>”
 
-“Listen, I talked to HR and smoothed everything out.  Ryan will still get a mark on his record, because he shouldn’t have hit you.  Even if he did think he was doing it to protect me.  You’re not going to get in trouble for what happened between us, though.  It’s all been put down as a big misunderstanding.”  He sat back in his chair.  “Can you find it in your heart to forgive him?  I’m worried he might get fired if you don’t.”
+“Listen, I talked to HR and smoothed everything out.  Ryan will get a mark on his record, because he shouldn’t have hit you.  Even if he did think he was doing it to protect me.  You’re not going to get in trouble for what happened between us, though.  It’s all been put down as a big misunderstanding.”  He sat back in his chair.  “Can you find it in your heart to forgive him?  I’m worried he might get fired if you don’t.”
 
-Ryan had freely chosen to clean my clock, but, honestly, I felt no ill will towards him.  I got it.  He was fooled by Switch’s camouflage.  Ryan saw him as a sweet guy trying to take care of everyone and not be a burden.  A rare breed of truly selfless person met once in a lifetime.
+Ryan had freely chosen to clean my clock, but, honestly?  I felt no ill will towards him.  I got it.  He was fooled by Switch’s camouflage.  Ryan saw him as a sweet guy trying to take care of everyone and not be a burden.  As that rare breed of truly selfless person met once in a lifetime.
 
-I felt anger <i>for</i> Ryan that this imposter was taking advantage of him.  Pushing his buttons so hard that he would lash out like that.  Maybe being fired would not be the worst thing for Ryan.  It would get him away from Switch.
+I felt anger <i>for</i> Ryan that this imposter was taking advantage of him.  Pushing his buttons until he lashed out at me.  Maybe being fired would be the best thing for Ryan.  It would get him away from Switch.
 
-I asked the floor, “Why do you care?”  Despite my downcast eyes, I imagined his pupils flaring.  I heard a muffled clicking and looked up to his chest.  His shirt vibrated like he was suppressing a laugh.  I swallowed hard as he opened his mouth and said—
-
+I asked the floor, “Why do you care?”  Despite my downcast eyes, I imagined his pupils flaring.  I heard a muffled breathiness and looked up to his chest.  His shirt vibrated like he was suppressing a laugh.  I swallowed hard as he opened his mouth and said—
 
 “Hey, I hope that wasn’t rude of me.”
 
-It was still dark.  We had been on the road maybe 15 minutes.  Just long enough for us to get back on the highway and reach cruising speed.  My gaze drifted to his seatbelt.  “What was?”
+It was still dark.  We had been on the road for maybe 15 minutes.  Just long enough for us to get back on the highway and reach cruising speed.  My gaze drifted to his seatbelt.  “What was?”
 
 “At breakfast.  I just realized you wouldn’t know why what you said was so funny.  How could you?  You’re not really supposed to know.  I wasn’t laughing at you though.  I’m sorry if you thought I was.”
 
@@ -65,47 +66,54 @@ He exhaled a disapproving snort.  “Fine.  I’ll celebrate my promotion alone.
 
 “What promotion?”
 
-He smiled coyly.  “See?  You <i>did</i> want to know.”  His shoulders wriggled with delight.  “It’s like this: if the demo goes well, Boss is going to have to put all his time into setting up the manufacturing teams to mass produce Alpine.  He’ll be too busy to act as our day-to-day contact anymore.
+He smiled coyly.  “See?  You <i>did</i> want to know.”  His shoulders wriggled with delight.  “It’s like this: if the demo goes well, Boss is going to have to put all his time into setting up the manufacturing team to mass produce Alpine.  He’ll be too busy to act as our day-to-day contact anymore.
 
-“I’ve already been working as a sort of relay between software, hardware, engineering, marketing, and legal.  I get along with everyone.  He thought it made sense for me to become the new team lead.  Soon, I’ll be your direct superior.  Surprise!”
+“I’ve already been working as a sort of relay between engineering, marketing, and legal.  I get along with everyone.  He thought it made sense for me to become the new team lead.  Soon, I’ll be your direct superior.  Surprise!”
 
+That.  That was.  How could.  What—
 
 The morning after the holiday, Tuesday, I received an email from Ryan just before lunch.  It was short:
 
-<i>Sorry, I lost my temper.
-</i>
-Ryan was hunched over his desk with his hands clutching the back of his neck.  Maybe the email hurt his pride.  Or maybe whatever threats HR made if he acted out again had hit home.  I was more afraid that Ryan was upset over whatever Switch had said to him.  Ryan’s apology meant nothing.  I had already forgiven him.  All that mattered was whether he was okay.  I had no idea how to ask him about that.
+<i>Sorry I lost my temper</i>
 
-<i>Hey.  It’s fine.  It was a weird situation.  I just want you to know I’m not trying to mess with
-</i>
+Ryan sat hunched over his desk with his hands clutching his neck.  Maybe the email hurt his pride.  Or maybe whatever threats HR made if he acted out again had hit home.  I was more afraid Ryan was upset over whatever Switch had said to him.  Ryan’s apology was unnecessary.  All that mattered was whether he was okay.  And I had no idea how to ask him about that.
+
+<i>Hey.  It’s fine.  It was a weird situation.  I just want you to know I’m not trying to mess with</i>
+
 I watched the cursor blink.  The office was so quiet that Ryan would be able to hear my keyboard clacks starting and stopping.  Mortified, I resumed typing.
   
-	<i>him.  Honestly, I’m trying to stay away from him.  I don’t think anything like this will come up again.
-</i>
+	<i>him.  Honestly, I’m trying to stay away from him.  I don’t think anything like this will come up again.</i>
+
 Send.  A twenty-second delay.  Ryan tapped a reply.
 
-<i>If you have such a problem with him, why don’t you look for another job?  I mean that as a real question.  I’m not trying to be a dick.
-</i>
+<i>If you have such a problem with him, why don’t you look for another job?
+Real question.  I’m not trying to be a dick.</i>
+
 I wanted to be honest with Ryan, but what if Boss could monitor our email?  I needed this job.  What was the most diplomatic way to explain this?
 
-<i>I’m going to stick it out for now.  If things aren’t better by the time Alpine is in alpha, I’ll need to seriously consider other employment opportunities.
-</i>
-I mentally begged Ryan to understand what I really meant: I wanted out as soon as possible.  I just had to figure out how exactly I was going to—
+<i>I’m going to stick it out for now.  If things aren’t better by the time Alpine is in alpha, I’ll need to seriously consider other employment opportunities.</i>
 
+Send.  I mentally begged Ryan to understand what I really meant: I wanted out ASAP.  I just had to figure out how exactly I was going to—
 
-“Listen."  Switch's voice lilted with that conciliatory, compassionate note given to slighted children.  “I can already see you’re concerned, but, trust me, it’s not going to go like you’re thinking.” My eyes closed.  I tried the deep breathing exercise I had read about online.  It was supposed to help people with panic attacks.  It had no effect on my exploding heartrate, but it reminded me that I still had control over something: the air flowing through my lungs.
+“Listen.”  Switch's voice lilted with that conciliatory, compassionate note given to slighted children.  “I can already see you’re concerned, but, trust me, it’s not going to go like you’re thinking.”
 
-He continued, “I know how rough this job has been on you, and you’re really valuable to the team.  I think you deserve a raise as a thank you.”   Breathing exercises over.  I turned to him with a confused, suspicious look.  He remained focused on the road but spared me a quick glance.  His smile twitched.  “Let me guess, you thought I was going to give Ryan special treatment.”
+My eyes closed.  I tried the deep breathing exercise I had read about online.  It was supposed to help people with panic attacks.  It had no effect on my exploding heart rate, but it reminded me that I still had control over something: the air flowing through my lungs.
+
+He continued, “I know how rough this job has been on you, and you’re really valuable to the team.  I think you deserve a raise as a thank you.”
+
+Breathing exercises over.  I turned to him with a confused, suspicious look.
+
+He remained focused on the road but spared me a glance.  His smile twitched.  “Let me guess, you thought I was going to give Ryan special treatment.”
 
 “Isn’t he your best friend or boyfriend or something?”
 
 “Oh dear, he’s not telling people we’re together, is he?”
 
-“No.  But it’s pretty obvious that he has a thing for you.”  Or, more specifically, <i>your mask</i>.  “Aren’t you two sleeping—?"
+“No.  But it’s pretty obvious that he has a thing for you.”  Or, more specifically, <i>your mask</i>.  “Aren’t you two sleeping tog—?"
 
 He interrupted with a forced sigh.  “I was worried that was the case.  That’s not going to do.  It’s against company policy.”
 
-I scoffed.  “Is <i>that</i> the only problem?”  Being a soulless chameleon that felt no real emotions seemed like a bit of a stumbling block to any intimate relationship.
+I scoffed.  “Is <i>that</i> the only problem?”  Being a soulless chameleon with no real emotions seemed like a bit of a stumbling block to an intimate relationship.
 
 “Well, no.  Ryan’s a lovely man, but he’s also incredibly dull, bless his heart.”
 
@@ -119,9 +127,9 @@ I scoffed.  “Is <i>that</i> the only problem?”  Being a soulless chameleon t
 
 I turned my glazed-over eyes towards the front window.  What kind of back asswards logic made him want to get rid of Ryan?  And to incentivize me to stay!?  The second part I could write off as Switch tormenting me, but who in their right mind sabotages their most loyal supporters?  But that was it.  He lacked a “right mind.”  Even as a resource, Ryan meant nothing to him.
 
-My fingers found a rough spot in the door armrest to worry at.  “You never explained what you said to Ryan.”
+My fingers found a rough spot in the door’s armrest to worry at.  “You know, you never explained what you said to Ryan.”
 
-He hummed a note of uncertainly.
+He hummed a note of uncertainty.
 
 “About the cigarette burns.”
 
@@ -129,11 +137,13 @@ He hummed a note of uncertainly.
 
 “I asked.”
 
-“I showed him the rest of my scars.”  He fiddled with the heat dial.
+“I pointed out the rest of my scars.”  He fiddled with the heat dial.
 
-“Are you going to say more, or it is not ‘proper discussion for work?’”
+“Are you going to say more, or is it not ‘proper discussion for work?’”
 
-“It’s generally not proper, but, in this case, it involves a work subject, so it’s more of a grey area.”  Returning his hand to the steering wheel, he started tapping.  “I’m not surprised you didn’t notice them in the garage.  They’ve faded, and you really have to look to see them.  I guess the briefest way to put it is I didn’t handle being a teenager very well.  I got a little self-destructive.  Therapy helped me find different ways of coping, but the urge still hits me now and then.  I guess you know that though.”
+“It’s generally not proper, but, in this case, it involves a work subject, so it’s more of a grey area.”  Returning his hand to the steering wheel, he started tapping.  “I’m not surprised you didn’t notice them in the garage.  They’ve faded, and you really have to look to see them these days.
+
+“I guess the briefest way to put it is this: I didn’t handle being a teenager very well.  I got a little self-destructive.  Therapy helped me find different ways of coping, but the urge still hits me now and then.  I guess you know that though.”
 
 “So, you didn’t tell Ryan how you did it.”
 
@@ -143,4 +153,6 @@ He hummed a note of uncertainly.
 
 “You let me do it <i>three times</i>.  We’re both guilty.  Speaking of which, how’s your hand?”
 
-Too deep.  I clammed up.  The conversation was over.  He tried to bring up a few more small-talk topics, but I ignored him.  He gave up.  Eventually, the sun rose, though we never saw it.  The sky remained uniform grey as snow kept falling.
+Too deep.  I clammed up.  Conversation over.
+
+He tried to bring up a few more small-talk topics, but I ignored him.  He gave up.  Eventually, the sun rose, though we never saw it.  The sky remained uniform grey as snow kept falling.

@@ -1,14 +1,16 @@
-Knowing him destroyed my sense of time.  Keeping track of what happened when is hard.  I mean, if I really had to, I could write up an event timeline.
+Knowing him destroyed my sense of time.  Keeping track of what happened when is hard.  I mean, if I really had to, I could write up a timeline.
 
 My first day of work.  The day he asked me to take a smoke break with him.  When everyone started turning against me.  That whole deal with Ryan.  Making the mistake of giving Switch a chance.  The awful meeting with Boss that set my fate.  The decision to stay on the surface.  The car trip, the cabin, the woods—
 
-That innocent, linear outline could never represent real time.  Real time dilated in the gravity of his presence.  Seconds stretched into hours.  And when I was alone, days passed in a flash to compensate.  I no longer trust the inevitable ticking of the clock that everyone else takes for granted.  Not since the parking garage.
+That innocent, linear outline would never represent real time.
+
+Real time dilated in the gravity of his presence.  Seconds stretched into hours.  And when I was alone, days passed in a flash to compensate.  I no longer trust the inevitable ticking of the clock that everyone else takes for granted.  Not since the smoke break.
 
 At first, things at work were quiet.  I was busy to be sure.  A late start meant I had work that literally needed to be done yesterday, so I was rushing to catch up.  I still struggled pinning names to faces, but I got my key teammates down: Dave, Ryan, and, unfortunately, Switch.
 
 Dave was fine with me, but things were awkward with Ryan.  Ryan was close to Switch.  I guessed it was because they both smoked.  They took their breaks together to light up.  Ryan could sense the tension between me and Switch, so he was standoffish with me.
 
-That tension was all there was between Switch and I though.  No escalation.  No fights.  No threats.  Just the mutual understanding that I knew he was some kind of <i>other</i>.  That I had seen through his mask.  So, all things considered, it was going well.
+That tension was all there was though.  No escalation.  No fights.  No threats.  Just the mutual understanding that I knew Switch was some kind of <i>other</i>.  That I had seen through his mask.  So, all things considered, it was going well.
 
 When he did talk to me, it was brief pleasantries.  A good morning at the start of the day and a good night at the end.  Asking about my work when it was relevant to what he was doing.  I was on the software end with Dave, while he was on hardware design with Ryan.  I think he might have played a small role in assembly for the prototype too.
 
@@ -18,11 +20,11 @@ He knew, of course.  There was an amused tremor in his tone that only came up wh
 
 There was just one problem: I hated it that his desk was behind mine.  I could never see where he was.  
 
-Sure, his back was to me too, so it was not like he could sit there staring at me all day.  And he ignored my existence long enough to get his work done.  But that is not the point.  The point is: my back was always to him.  That meant I could never get his presence off my mind.
+Sure, his back was to me too, so it was not like he could sit there staring at me all day.  And he ignored my existence long enough to get his work done.  But that is not the point!  The point is: my back was always to him.  That meant I could never get his presence off my mind.
 
-It was so bad at first that when Ryan walked by my desk and I smelled the smoke on his clothes, I would tense up.  I learned fast that Ryan’s Marlboros smelled different from Switch’s Crossroads.  Charred s’mores and liquorish versus the medicinal burning of cherry-flavored cough drops.
+It was so bad at first that when Ryan walked by my desk, and I smelled the smoke on his clothes, I would tense up.  I learned that Ryan’s Marlboros smelled different from Switch’s Crossroads.  Charred s’mores and licorice versus the medicinal burning of cherry-flavored cough drops.
 
-It was that cherry smell that made my skin prickle as he silently approached my desk that day.  I quick-saved my code and sat back in my chair.  A signal that I knew he was coming.  Trying to startle me was pointless.
+It was that cherry smell that made my skin prickle as Switch silently approached my desk that day.  I quick-saved my code and sat back in my chair.  A signal that I knew he was coming.  Trying to startle me was pointless.
 
 He said, “Hey, you have a few minutes?”
 
@@ -30,13 +32,15 @@ I assumed he wanted to talk about product functionality, so my response was auto
 
 “Come take a smoke break with me, and we’ll chat.”  He headed for the door.
 
-This was unacceptable.  What in the hell could he want that he needed to talk to me alone about it?  I thought everything was settled.  We were good.  We had our silent truce.  Nothing more needed to be said.
+This was unacceptable.  What in the hell could he want that he needed to talk to me <i>alone</i> about it?  I thought everything was settled.  We were good.  We had our silent truce.  Nothing more needed to be said.
 
 He stopped in the middle of the office and looked back.  “Are you coming?”
 
-I choked out a dry-mouthed, “Yeah.”  Standing, I steadied myself with a hand on my desk.  My heartrate picked up.  Slow breathing failed to ease it.  I made my way to him with the composure of a mouse tiptoeing into a sleeping cobra’s burrow.
+I choked out a dry-mouthed, “Yeah.”
 
-He led me out of the building.  Around to the left side.  Up the cracked, cement steps of the four-tiered parking garage.  Meaningless small talk spewed from him the whole way.  He left the stairs on the third floor.  Following the metal guard rail, we stooped in an area overshadowed by the middle branches of a massive, drooping tree.
+Standing, I steadied myself with a hand on my desk.  My heart rate picked up.  Slow breathing failed to ease it.  I made my way to him with the composure of a mouse tiptoeing into a sleeping cobra’s burrow.
+
+He led me out of the building.  Around to the left side.  Up the cracked, cement steps of the four-tiered parking garage.  Meaningless small talk spewed from him the whole way.  He left the stairs on the third floor.  Following the metal guard rail, we stopped in an area overshadowed by the middle branches of a massive, drooping tree.
 
 “It’s a nice spot, isn’t it?”  From his tone, it sounded like he was reveling in a picturesque view at the park.  Ignoring the tree, all I saw was a row of cookie-cutter corporate buildings across a busy road.  “High enough up that my smoking doesn’t bother anyone.  And between the roof and the magnolia, I get plenty of shade.  I couldn’t ask for more on a summer day.”
 
@@ -46,9 +50,9 @@ On a delay, I said, “I’ve kind of been enjoying the heat.”
 
 “That’s because you haven’t felt a real summer yet.  This is mild.”
 
-He flicked the pack with his wrist to dislodge the cigarettes.  Selected the one that slid out the furthest.  Rolled it back and forth between his middle and ring finger until he was happy with its position.  
+He flicked the pack with his wrist to dislodge the cigarettes.  Selected the one that slid out the furthest.  Rolled it back and forth between his middle and ring fingers until he was happy with its position.  
 
-“Wait until we get one of those days where it’s trying to rain and just can’t.  It’s the humidity that’ll get you, ya know.”  He brought the Crossroads to his mouth.  The way he held it, his hand entirely covered his face from the tip of his nose down.  
+“Wait until we get one of those days when it’s trying to rain and just can’t.  It’s the humidity that’ll get you, ya know.”  He brought the Crossroads to his mouth.  The way he held it, his hand entirely covered his face from the tip of his nose down.
 
 Pocketing the rest of the pack, he pulled out a gold lighter that looked heavy.  As he lit the cigarette, he mumbled, “Janice bragged that she makes the best sweet tea you’ll get in the state.  I’m not sure if I believe her—oh, but don’t tell her I said that.  Anyway, I would still love to try hers.  Do you think if I give her great big puppy dog eyes, she’ll take pity on me and bring some?”
 
@@ -60,7 +64,7 @@ He probably made some cruel mockery of that expression.  I missed it.  My gaze h
 
 “That we didn’t start together.  I think you would be better acquainted with everyone if we had met them all at the same time.”
 
-“Maybe.”  A puff of smoke drifted my way, and I gagged. 
+“Maybe.”  A smoke puff drifted my way, and I gagged. 
 
 “Ah, shoot!  Sorry!”  He slipped around me so fast I had no idea where he went.  My heart skipped a beat when I heard his voice behind me.  “I should have made sure I was downwind of you.  I’m too used to being out here with Ryan, and I’m always on his right.”
 
@@ -70,7 +74,7 @@ I turned towards him and took a defensive step back.  “It’s fine.”
 
 I cleared my throat as an excuse to say nothing.  He remained silent.  Shifting my weight further away from him, I asked, “What did you want to talk about?”
 
-“Well...” He looked down, as if bashful.  “I just thought that maybe we should address the elephant in the room.”
+“Well…” He looked down, as if bashful.  “I just thought that maybe we should address the elephant in the room.”
 
 My body went rigid.  I wished we were up on the top deck, where I would have felt the sun on my ice-cold knuckles.  My death grip on the railing turned them white.
 
@@ -78,53 +82,53 @@ My body went rigid.  I wished we were up on the top deck, where I would have fel
 
 How in the fuck was I supposed to respond to that?  We both knew the tension between us stemmed from more than a casual faux pas.  Every fiber of his being was wrong.
 
-I should have just nodded.  Taken this as a verbal confirmation of our silent agreement.  But no.  I fucked up.  All my terror transformed into contemptuous bitterness.  How dare he have the gall to play down the hell he wove around me!
+I should have just nodded.  Taken this as a verbal confirmation of our silent agreement.  But no.  I fucked up.  I got angry.  How dare he have the gall to play down the subtle hell he wove around me!
 
-It gave me the brass balls to look him square on the eyes when I said, “You’re joking, right?”
+It gave me the brass balls to look him square in the eyes when I said, “You’re joking, right?”
 
-His expression froze.  The cigarette drooped between his lips.  A trail of smoke swirled up and around his ear.  But his pupils grew massive.  His eyes blazed black.  An abyss that sent dizzy waves arcing through my skull.  Shit.  Did I mention I have a bad habit of fainting when pushed to my limits?
+His expression froze.  The cigarette drooping between his lips.  A trail of smoke swirled up and around his ear.  But his pupils grew massive.  His eyes blazed black.  Like he had just snorted 5 lines of cocaine.  That abyss sent dizzy waves arcing through my skull.  Shit.  Did I mention I have a bad habit of fainting when pushed to my limits?
 
-I could swallow down the nausea, but if my knees buckled, I was done.  And, truly, all I wanted to do was to lay down before the blood rushed to my head.  Before my hearing faded to that pure ring of deafness.  Before my sight fizzled into frantic static.  The only thing keeping me on my wobbly legs was his stare.  A rabbit’s vain last hope that if I could stay still, I would remain unseen.
+I could swallow down the nausea, but if my knees buckled, I was done.  And, truly, all I wanted to do was to lie down before the blood rushed to my head.  Before my hearing faded to that pure ring of deafness.  Before my sight fizzled into frantic static.  The only thing keeping me on my wobbly legs was his stare.  A rabbit’s vain hope that if I could stay still, I would remain unseen.
 
-His pupils constricted back to their normal size.  He blinked, laughing genially.  “No, I’m serious!  Was I just being silly, and everything’s okay?”
+His pupils slowly constricted back to their normal size.  He blinked, laughing genially.  “No, I’m serious!  Was I just being silly, and everything’s okay?”
 
 Eye contact broken.  I turned my back to the railing.  Carefully, slowly, I slid to the ground.  I wanted the dizziness to stop so badly.  I heard him take another drag of cherry miasma and exhale it.  The shuffling of fabric against the metal railing told me that he had stooped down to my level.  
 
 Without meaning to, I muttered, “What even are you?”
 
-“I think we all ask ourselves that question.”  Was that a non-answer to put the ball back in my court?   Or did he think that was a legitimate response to my question?  I may never know, but I swear his singsong tonality muted when he said it.
+“I think we all ask ourselves that question.”  Was that a non-answer to put the ball back in my court?  Or did he think that was a legitimate response to my question?  I may never know, but I swear his singsong tonality muted when he said it.
 
-I felt too sick to keep talking, so he picked up my slack.  “If you think of anything I can do to smooth things out between us, I’m happy to oblige.”
+I was too sick to keep talking, so he picked up my slack.  “If you think of anything I can do to smooth things out between us, I’m happy to oblige.”
 
 I said nothing.
 
-“Not so much then?”  Another smoke plume.  “That’s too bad.  It must make you feel terrible.”  He regarded the burning end of his Crossroads.  His thumb flicked the filter end to dislodge an ash chump.  “You know, I heard somewhere that emotional pain is the same as physical pain.  Did you ever hear that?”
+“Not so much then?”  Another smoke plume.  “That’s too bad.  It must make you feel terrible.”  He regarded the burning end of his Crossroads.  His thumb flicked the filter end, dislodging the ash.  “You know—speaking of feeling terrible—I heard somewhere that emotional pain is the same as physical pain.  Did you ever hear that?”
 
 I remained silent.
 
 “It was something about how the sensation of pain is all in your head at the end of the day.  It doesn’t matter whether it’s your body that’s hurting or your feelings.  Your brain acts the same way.  Do you think that’s true?”
 
-He unbuttoned his left cuff link and pushed the sleeve up as far as it would go.  When he reached towards me and took my right hand by the wrist, there was no stopping him.  My hand, that appendage, though physically attached to my body, was distant from me.  Foreign.  I could no longer command it.  I could not even breathe.  I could only watch as he positioned the cigarette between my fingers.
+He unbuttoned his left cuff link and pushed the sleeve up as far as it would go.  He reached towards me and took my right hand by the wrist.  There was no stopping him.  My hand, that appendage, though physically attached to my body, was distant from me.  Foreign.  I could no longer command it.  I could not breathe.  I could only watch as he positioned the cigarette between my fingers.
 
-“I don’t think it’s true.”  He rotated my hand and pressed the Crossroads to his wrist.  As he strangled back a pained gasp, the acrid stink of burnt flesh reached my nose.  “Because this?”  He moved my hand closer to his elbow and pressed in again.  His voice strained.  “This hurts.”  He burned himself a third time.  “It really, <i>really</i> hurts.”
+“I don’t think it’s true.”  He rotated my hand and pressed the Crossroads to his wrist.  As he strangled back a pained gasp, the acrid stink of burnt flesh assaulted me.  “Because this?”  He moved my hand closer to his elbow and pressed in again.  His voice strained, “This hurts.”  A third time, further up.  “It really, <i>really</i> hurts.”
 
-He placed my wrist on his knee.  Pulled his shirt sleeve back down.  Rebuttoned the cuff.  Ran his pinched fingers along the sleeve’s rumpled, iron creases until they looked sharp.
+He placed my wrist on his knee.  Pulled his shirt sleeve back down.  Rebuttoned the cuff.  Ran pinched fingers along the sleeve’s rumpled, iron creases until they looked sharp.
 
-With that done, he picked up my hand again.  Bringing it to his mouth, he took one more hit from the cigarette that was still in my grasp.  Stuck there.  As if he had superglued it there.  He breathed out, spewing smoke furls between my fingers like a contented dragon.
+With that done, he picked up my hand again.  Brought it to his mouth for more hit from the cigarette that was still in my grasp.  It stuck there.  As if he had superglued it in place.  He breathed out, spewing smoke furls between my fingers like a contented dragon.
 
 Then, he laid my hand on the ground near the rest of my quivering form.  He stood up.  “This was a nice chat.  You bring up a lot of interesting points.  We should do this more often.”  Without waiting for a response, he walked back to the office.
 
 The sound of his footsteps faded.  I dared to glimpse my right hand.  The heat from the Crossroads’ live end crept dangerously close to my skin.  I extracted it and hurled it deeper into the parking garage with a sob.
 
-The sobbing morphed into whisper-screaming “what-the-fuck” a hundred times as I furiously scraped frustrated, terrified tears from my eyes.  I only stopped when I realized I was rubbing that cherry stink into my face, my clothes, my hair.
+The sobbing morphed into whisper-screaming “what-the-fuck” a hundred times as I furiously scraped frustrated tears from my eyes.  I never wanted that.  To witness that.  To be an intimate part of that.  To have his otherness be as real and tangible as the scars those three burns would inevitably become. 
 
-I stumbled to my feet.  Almost crashed back down as the nausea hit me hard.  Catching the railing.  Leaning over.  Panting.  Sure I was going to puke up half-digested, black coffee.
+I froze when I realized I was rubbing that cherry stink into my face, my clothes, my hair.  I stumbled to my feet.  Almost crashed back down as the nausea hit me hard.  Catching the railing.  Leaning over.  Panting.  Sure I was going to puke up half-digested, black coffee.
 
 It never came. 
 
-Eventually, I staggered down the garage staircase.  Somehow, I reached the ground floor without tripping over myself and tumbling to the bottom like a rag doll.  Back in the sunlight, it seemed ludicrous that any of it had happened.  The idiotic lie that I must have hallucinated it all got me to a bathroom.
+Eventually, I staggered down the staircase.  Somehow, I reached the ground floor without tripping over myself and tumbling to the bottom like a rag doll.  Back in the sunlight, it seemed ludicrous that any of it had happened.  The idiotic lie that I must have hallucinated it all got me to a bathroom.
 
-I caked my hands in foaming soap and desperately tried to scrub the smoke smell off them.  Before washing my face, I panic-checked my watch.  I was sure had lost at least an hour.  I would have to stay late tonight.  And if I stayed late then what were the chances that he would stay late too, just to watch how I was dealing with the—?! 
+I caked my hands in foaming soap and desperately tried to scrub the smoke smell off them.  Before washing my face, I panic-checked my watch.  I was sure I had lost at least an hour.  I would have to stay late tonight.  And if I stayed late, then what were the chances that he would stay late too, just to watch how I was dealing with the—?! 
 
 It had been barely ten minutes since he had appeared at my desk.
 

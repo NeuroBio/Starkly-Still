@@ -6,31 +6,35 @@ What I failed to appreciate was that Ryan always vented his problems to Clara.  
 
 While Ryan’s sphere of influence was limited to the Alpine group, Clara’s was much larger.  As the one-woman legal team for the entire business, information effortlessly diffused through her to every corner of the office.  The damage she could do with a few well-chosen words was incalculable.
 
-Bea stopped answering my emails.  She still scheduled meetings with Boss when I asked in person though.  So, I ignored it.  Sure, eventually I would have to figure out why she was upset with me.  But appeasing the passive aggressive secretary was hardly a priority.  I was against a hard deadline to finish Alpine’s security system.  Under the stress of it, I worked slower as I got less sleep.
+It started with Bea.  She stopped answering my emails.  She still scheduled my meetings with Boss when I asked in person though.  So, I ignored it.
+
+Sure, eventually I would have to figure out why she was upset with me.  But I was against a hard deadline to finish Alpine’s security system.  Under the stress of it, I worked slower as I got less sleep.  Appeasing the passive-aggressive secretary was hardly a priority.
 
 The growing silence was harder to ignore.
 
-Conversations ceased when I walked by.  Polite banter degenerated to one-word answers.  I received need-to-know information late.  The break room emptied if I wandered into it.  Work had left me so drained every day, that making friends had fallen off my radar.  I knew my coworkers and no one else.  This campaign against me was painfully isolating.  
+Conversations ceased when I walked by.  Polite banter degenerated to one-word answers.  I received need-to-know information late.  The break room emptied if I wandered into it.  Work had left me so drained every day that making friends had fallen off my radar.  I knew my coworkers and no one else.  This campaign against me was painfully isolating.  
 
-The only person still treating me the same was Switch.  He acted as if nothing was wrong.   As if everything was proceeding normally.  I knew the end to this hell lay with him, but the last thing I wanted to do was owe him a favor.  The next best option was to get Ryan on my side somehow.
+The only person still treating me the same was Switch.  He acted as if nothing was wrong.  As if everything was proceeding normally.  I knew the end to this hell lay with him, but the last thing I wanted to do was owe him a favor.  The next best option was to get Ryan on my side somehow.
 
 I studied Ryan’s schedule.  Initially, I had a sinking feeling that he took all his breaks with Switch.  I would have no chance of catching him on his own.  Then I realized Switch had a biweekly meeting with Boss that overlapped with the afternoon smoke break.  Ryan was a creature of habit, so he went out alone during those meetings.  The idea of going back to the garage’s third floor made me sick.  But what choice did I have?
 
-When 3PM rolled around the next Thursday, I committed my code, pushed it to the online repo, and waited.  I stared blankly the terminal.  My cursor blinked aimlessly in an open script.  Finally, a chair rolled back.  A slight groan in time with a stretch.  Cherry smoke as Switch passed by.  The door to Boss’s office opening and then closing.
+When 3 PM rolled around the next Thursday, I committed my code, pushed it to the online repo, and waited.  I stared blankly at the terminal.  My cursor blinked aimlessly in an open script.  Finally, a chair rolled back.  A slight groan in time with a stretch.  Cherry smoke as Switch passed by.  The door to Boss’s office opening and then closing.
 
 My shoulders relaxed.  Time to talk to Ryan.  I turned to his desk.  He was not there.  Oh.  Okay.  He must have decided to break early for some reason.  Was I going to miss him entirely?
 
-Panicked, I shot to my feet, banging my knee on the desk.  I rubbed it for half a second before hobbling out of my cubicle to the door.  Around the building.  Up the stairs.  Off at the third floor.  Hurry to the spot where Switch had brought before.  Ryan was not at the railing.  Was he smoking somewhere else?  Another floor?  Or maybe he went for a walk?
+Panicked, I shot to my feet, banging my knee on the desk.  I rubbed it for half a second before hobbling out of my cubicle to the door.  Around the building.  Up the stairs.  Off at the third floor.  Hurry to the spot where Switch had brought me before.
+
+Ryan was not at the railing.  Was he smoking somewhere else?  Another floor?  Or maybe he went for a walk?
 
 A sharp whistle from behind.  I whirled around to see Ryan smoking on a car’s hood.  Ryan’s ethnicity never came up in conversation, and I never asked, but with his dark eyes, dark hair, and too-dark-to-be-a-tan skin, I always assumed he was Hispanic.  When he was in a bad mood, those eyes of his could burn right through a man.  I desperately wanted to avoid that.
 
-Head down, I approached.  My strategy had been to engage in the polite, social dance with him.  Unfortunately, Ryan went straight to the point.  “What do you want.”
+Head down, I approached.  My strategy would have been to engage in the polite, social dance with him.  Unfortunately, Ryan went straight to the point.  “What do you want.”
 
-“Um, hey, uh.  So…”  None of my preplanned words were designed for a direct conversation.  I glanced up to see how hostile his expression was.  Neutral, but stiff.  A mask over whatever he was feeling.  There was only one way to proceed.  “I wanted to talk about… I think I made you upset, but I honestly have no clue what I did.”  The similarity between my opening and Switch’s put a bad taste in my mouth.
+“Um, hey, uh.  So…”  None of my preplanned words were designed for a direct conversation.  I glanced up to see how hostile his expression was.  Neutral, but stiff.  A mask over whatever he was feeling.  There was only one way to proceed.  “I wanted to talk about… I think I made you upset, but I honestly have no clue what I did?”  The similarity between my opening and Switch’s put a bad taste in my mouth.
 
 Ryan scoffed.
 
-“I’m serious.  I really don’t know what I did.”  I tried to sound earnest instead of terrified.  Between my perpetually high anxiety from Switch and my inability to deal with people being upset with me, I think only the fear came through.  “I’m sorry for whatever it was, but I don’t know.  I don’t even know when I could have made you upset.  We barely talk.”
+“I’m serious.  I really don’t know what I did.”  I tried to sound earnest instead of terrified.  Between my already high anxiety and my inability to deal with people being upset with me, I think only the fear came through.  “I’m sorry for whatever it was, but I don’t know.  I don’t even know when I could have made you upset.  We barely talk.”
 
 Ryan looked away from me.  “You’re so short-sighted.”
 
@@ -38,37 +42,41 @@ Ryan looked away from me.  “You’re so short-sighted.”
 
 “You know what happened!”
 
-“No, I don’t!”  The disbelief and disgust playing across Ryan’s face was too much.  I talked to the concrete.  “I really, truly don’t.”
+“No.  I don’t.”  The disbelief and disgust playing across Ryan’s face was too much.  I talked to the concrete.  “I really, truly don’t.”
 
 “You’re unbelievable, you know that?  You think you can mess with Tim, the guy <i>everyone</i> else likes, and <i>no one</i> is going to notice?”
 
-In the worst tone possible, I muttered, “What did I do to him?”
+In the worst possible tone, I muttered, “And what did I do to him?”
 
 “See!  You don’t even care!”
 
-“No, it’s not—"  A frustrated sigh.  I hated the burning sting in my eyes.  “I mean, we don’t get along, but—"
+“No, it’s not—”  A frustrated sigh.  I hated the burning sting in my eyes.  “I mean, we don’t get along, but—”
 
 “No shit you two don’t get along.”
 
-Nothing was going to deescalate Ryan.  I gave him a pathetic look, hoping that, even in rage, he was enough of a chatterbox to spew out what he was thinking.  That was the first, and probably the only, good decision I made out there.
+Nothing was going to de-escalate Ryan.  I gave him a pathetic look, hoping that, even in rage, he was enough of a chatterbox to spew out what he was thinking.  That was the first, and probably the only, good decision I made out there.
 
-“You’re so arrogant.  You come down here with your fast-taking, big city accent, thinking you own everything.  How dare Tim not give you what you want.  How dare he not play your game.  What you did to him was unforgiveable.”
+“You’re so arrogant.  You come down here with your fast-talking, ritzy accent, thinking you own everything.”
+
+“‘Ritzy?’”
+
+“How dare Tim not give you what you want.  How dare he not play your games.  What you did to him was unforgivable.”
 
 Quietly, “I didn’t do anything to him.”
 
 “You filthy liar!  I saw the burns!”
 
-I blinked.  No.  No!  It was nothing like that!  There is no way even Switch would tell lie like that.  No one would do that.
+I blinked.  No.  No!  It was <i>nothing</i> like that!  There is no way even Switch would tell a lie like that.  No one would do that.
 
-Except he did?
+Except he did?  So… what?  Was he trying to get me fired?  Had he planned to burn himself from the start?  Was that the whole point of our meeting?
 
-So… what?  Was he trying to get me fired?  Had he planned to burn himself from the start?  Was that the whole point of our meeting?  My eyes darted around frantically as I pieced together the details of an event I had tried so hard to forget.  There had to be some scrap of information I could use in my defense.
+My eyes darted frantically.  I tried to piece together the details of an event I had tried so hard to forget.  There had to be some scrap of information I could use in my defense.
 
 “Don’t you have anything to say for yourself!?”  It looked like he was about to lose his composure.
 
-“I didn’t do that.”
+“I didn’t do it.”
 
-Ryan’s jaw dropped, quivering with words that refused to come out.  Finally, he croaked, “Then where did they come from!?”
+Ryan’s jaw dropped, quivering with words that refused to take form.  Finally, he croaked, “Then where did they come from!?”
 
 “He did it to himself.”
 
@@ -76,31 +84,35 @@ Ryan’s jaw dropped, quivering with words that refused to come out.  Finally, h
 
 “I don’t fucking know!  He’s fucking psycho!  Nothing about him makes sense.  It’s like he’s not a real person.  He’s a shell, a robot, a—”
 
-Ryan shoot to his feet.  I took a weak, half-step back.  He came at me like a bull.  Ryan was not a big guy, but he shoved me so hard that it sent me spinning.  I know nothing about trained fighting, but I have taken my share of blows.  The instinct to shield my face with my arms is automatic.
+Ryan shot to his feet.  I took a weak, half-step back.  He came at me like a bull.  Ryan was not a big guy, but he shoved me so hard it sent me spinning.  I know nothing about trained fighting, but I have taken my share of blows.  Shielding my face with my arms is instinctual.
 
-Except Ryan yanked my arms down as he pulled me forward.  Screaming at my face, “You don’t know anything about him!”  I cringed as spittle flecked onto me.
+Except Ryan yanked my arms down as he pulled me forward.  Screaming at my face, “You don’t know anything about him!”  I cringed as his spittle flecked onto me.
 
-And then I started panic giggling like an idiot.  This could not be reality.  The whole situation was absurd.  Between fits, I blurted out, “You’re the one who’s blind here.”
+And then I started panic giggling like an idiot.  It was unreal.  The whole situation was absurd.  Between fits, I blurted out, “You’re the one who’s blind here.”
 
 I was on the ground before I felt the impact.  I think it would be wrong to say I “needed that.”  But the shock did stop my giggling, and Ryan sure needed that.  At least I think he did.  Either way, he was gone by the time I sat up to evaluate my state.
 
-Wincing, I felt around my left cheek.  Ryan’s knuckles had dug in just below my eye.  Strange.  It was painless.  I must have been in shock.  All I felt was a displaced, pins and needles numbness throughout my body.  It left me with one thought: there was no way I could keep working in this cesspool.
+Wincing, I touched my left cheek.  Ryan’s knuckles had dug in just below my eye.  Strange.  It was painless.  I must have been in shock.  All I felt was a displaced, pins and needles numbness throughout my body.  It left me with one thought: there was no way I could keep working in this cesspool.
 
-But what were my options?  It would look awful on my resume if I tried to switched jobs this fast.  I had used up my savings settling down here.  There was no one I could call on for help.
+But what were my options?  It would look awful on my resume if I changed jobs this fast.  I had used up my savings settling down here.  There was no one I could call on for help.
 
 The only viable course of action came to me.
 
-I picked myself up.  I walked back to my cubicle.  I opened the company website.  I reread the policy on harassment.  I found the form to file a complaint.  Sweet, sweet bureaucracy.  I hit print.  Yeah, I knew that if I sicced HR on Ryan, I would have to explain the insanity that was Switch burning himself.   But it was the truth after all.  Somehow, someone was going to believe me.  Somehow…
+I picked myself up.  I walked back to my cubicle.  I opened the company website.  I reread the policy on harassment.  I found the form to file a complaint.  Sweet, sweet bureaucracy.  I hit print.
 
-My gaze drifted to Ryan’s desk.  His eyes were glued to the screen.  He held a squishy stress toy that unfurled when squeezed.  It was fully erect and looked like it could burst any second.  I decided not to look in his direction again.
+Yeah.  I knew that if I sicced HR on Ryan, I would have to explain the insanity that was Switch burning himself.  But it was the truth after all.  Somehow, someone was going to believe me.  Somehow…
 
-My body made its way to the dinosaur printer.  The catch tray was empty.  The yellow “paper-jam!” button blinked.  My heart sank.  Fate would have none of me defending myself.  I stepped back into something at the same time the cherry smell hit me.
+My gaze drifted to Ryan’s desk.  His eyes were glued to the screen.  He held a squishy stress toy that unfurled when squeezed.  It was fully erect and threatening to burst any second now.  I decided not to look in his direction again.
 
-With a friendly laugh, “Hey, hey, watch out!” He sidestepped around me and huffed.  “Oh no, it’s acting up again?  We have to convince Boss to buy us a new printer.  Here, let me help you out.”  He went behind the printer, unhooking latches and sliding aside panels to get at the rollers.
+My body made its way to the dinosaur printer.  The catch tray was empty.  The yellow “paper-jam!” warning blinked.  My heart sank.  Fate would have none of me defending myself.  I stepped back into something at the same time the cherry smell hit me.
+
+With a friendly laugh, “Hey, hey, watch out!” Switch sidestepped around me and huffed.  “Oh no, it’s acting up again?  We have to convince Boss to buy us a new printer.  Here, let me help you out.”  He went behind the printer, unhooking latches and sliding aside panels to get at the rollers.
 
 “No-it’s-fine-I-don’t-need-it.”
 
-“No, don’t be silly!  It just takes a little tug and…” He yanked the slightly crumpled paper out intact.  He automatically flipped it over to check the text side.  I was too exhausted to turn away, so I saw his pupils twitch.  He looked at my face, probably for the first time since he had left Boss’s office.  Back down at the paper.  Then back at my face.
+“No, don’t be silly!  It just takes a little tug and…” He yanked the slightly crumpled paper out intact.  He automatically flipped it over to check the text side.
+
+I was too exhausted to turn away, so I saw his pupils twitch.  He looked at my face, probably for the first time since he had left Boss’s office.  Back down at the paper.  Then back at my face.
 
 He held the sheet out for me to take.  I kept staring at his unreadable eyes.  Cautiously, he took my trembling hand and wrapped my fingers around the harassment form.  He whispered, “Do what you need to do.”
 
