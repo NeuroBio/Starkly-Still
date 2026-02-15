@@ -38,6 +38,13 @@ h1, h2 {
 	flex-direction: column;
 }
 
+#chapter-text-container hr {
+	border-color: rgb(72, 52, 77);
+	border-style: solid;
+	width: 30%;
+	margin: 4em auto 3.5em auto;
+}
+
 #chapter-text {
 	flex-grow: 1;
 }
