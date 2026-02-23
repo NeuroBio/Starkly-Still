@@ -444,8 +444,8 @@ const BookList = {
 			A box that can erase anyone.
 			This horror anthology dives into dark corners of unreality with a series of stand-alone stories.
 			However:
-			"[...] each entry alone does understand its own elegance.
-			They only realize their sense of purpose when properly curated, ordered, and sewed to a spine that unifies them together."
+			"A lone entry loses its elegance.
+			They only realize their meaning when properly curated, ordered, and sewn to a spine that unifies them together."
 		`,
 		wordCount: 'WIP',
 		type: BookType.ANTHOLOGY,
