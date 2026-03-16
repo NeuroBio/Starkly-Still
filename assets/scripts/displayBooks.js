@@ -24,10 +24,16 @@ setActiveBook(BookList[BookId.ALPINE], SeriesList[0]);
 
 
 function setActiveBook (activeBook, activeSeries) {
+	const chapterWordCountRaw = activeBook.chapters.reduce((sum, chapter) => {
+		sum += (chapter.wordCount || 0)
+		return sum;
+	}, 0);
+	const chapterWordCount = `${Math.round(chapterWordCountRaw / 1000)}K`;
+
 	d3.select('#title').text(activeBook.title)
 	d3.select('#thumbnail').attr('src', activeBook.thumbnail)
 	d3.select(`#type`).text(activeBook.type);
-	d3.select(`#word-count`).text(activeBook.wordCount);
+	d3.select(`#word-count`).text(activeBook.wordCount || chapterWordCount);
 	d3.select(`#genres`).text(activeBook.genres.join(', '));
 	d3.select('#blurb').text(activeBook.blurb);
 	d3.select('#misc').text(activeBook.misc);
@@ -85,7 +91,7 @@ function setChapters (activeBook) {
 			: chapter.id;
 	
 		if (bookmark === chapter.id) {
-			title = `(★) ${title}`;
+			title = `★ ${title}`;
 		}
 		
 		const page = bookmark === chapter.id
@@ -97,7 +103,13 @@ function setChapters (activeBook) {
 			.attr('class', 'link-button')
 			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
 		
-		link.append('span').text(title);
+		const mainTitle = link.append('div').attr('class', 'main-title');
+		mainTitle.append('span').text(title);
+		if (chapter.wordCount) {
+			mainTitle.append('span')
+				.text(`${chapter.wordCount} words`)
+				.attr('class', 'label');
+		}
 
 		if (chapter.subtitle) {
 			link.append('br')

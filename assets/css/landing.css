@@ -74,6 +74,11 @@ hr {
 	background-color: rgb(46, 43, 46);
 }
 
+.main-title {
+	display: flex;
+	justify-content: space-between;
+}
+
 .book::after {
 	content: "...";
 	position: absolute;

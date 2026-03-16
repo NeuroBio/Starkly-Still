@@ -75,6 +75,7 @@ class Chapter {
 		this.title = params.title;
 		this.section = params.section;
 		this.subtitle = params.subtitle;
+		this.wordCount = params.wordCount;
 	}
 }
 
@@ -91,121 +92,149 @@ const BookList = {
 			This is not a story about happy endings or triumph.
 			It is about coping with the everyday horror around us, which can only be defeated by outlasting it.
 		`,
-		wordCount: `~80K`,
+		wordCount: ``,
 		type: BookType.NOVEL,
 		genres: [Genre.PSYCHOLOGICAL_THRILLER],
 		chapters: _buildChapters([
 			{
 				title: 'Meeting',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 1749,
 			},
 			{
 				title: 'Echoes',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 2156,
 			},
 			{
 				title: 'Crossroads',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 2521,
 			},
 			{
 				title: 'Dissonance',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 2242,
 			},
 			{
 				title: 'Escalation',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 1843,
 			},
 			{
 				title: 'Knot',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 1976,
 			},
 			{
 				title: 'Ghosts',
-				section: 'Gambit 1'
+				section: 'Gambit 1',
+				wordCount: 1102,
 			},
 			{
 				title: 'Blossom',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 3783,
 			},
 			{
 				title: 'Thriller',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 1745,
 			},
 			{
 				title: 'Fugue',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 2514,
 			},
 			{
 				title: 'Hinterland',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 2184,
 			},
 			{
 				title: 'Ebb',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 3267,
 			},
 			{
 				title: 'Parasite',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 2618,
 			},
 			{
 				title: 'Atomic',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 3198,
 			},
 			{
 				title: 'Rising',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 2488,
 			},
 			{
 				title: 'Reprise',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 3224,
 			},
 			{
 				title: 'Spiral',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 1983,
 			},
 			{
 				title: 'Origin',
-				section: 'Gambit 2'
+				section: 'Gambit 2',
+				wordCount: 5349,
 			},
 			{
 				title: 'Breaks',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 2401,
 			},
 			{
 				title: 'Flow',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 3082,
 			},
 			{
 				title: 'Eyes',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 2836,
 			},
 			{
 				title: 'Switch',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 2666,
 			},
 			{
 				title: 'Resistor',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 4476,
 			},
 			{
 				title: 'Accretion',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 2253,
 			},
 			{
 				title: 'Fuse',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 4783,
 			},
 			{
 				title: 'Riptide',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 2117,
 			},
 			{
 				title: 'Alpine',
-				section: 'Gambit 3'
+				section: 'Gambit 3',
+				wordCount: 4271,
 			},
 			{
 				title: 'Null Gambit',
-				section: 'Epilogue'
+				section: 'Epilogue',
+				wordCount: 3295,
 			},
 		]),
 		firstPublished: '2021',
@@ -236,170 +265,212 @@ const BookList = {
 			{
 				section: 'Bone - Prologue',
 				subtitle: 'Irvington, Nebraska, 1909',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1926',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'South to Route 24, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Route 24, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Route 24, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Route 24, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Southwest to Colorado Springs\' Outskirts, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Elsmere, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Elsmere, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'The Nest, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Black Forest, Colorado 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Black Forest, Colorado 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Colorado Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Colorado Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Colorado Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Colorado Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Manitou Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Manitou Springs, Colorado, 1927',
+				wordCount: 0,
 			},
 			{
 				section: 'Blood',
 				subtitle: 'Old Colorado City, Colorado, 1927',
+				wordCount: 0,
 			},
 		]),
 		firstPublished: '2022',
@@ -447,57 +518,73 @@ const BookList = {
 			"A lone entry loses its elegance.
 			They only realize their meaning when properly curated, ordered, and sewn to a spine that unifies them together."
 		`,
-		wordCount: 'WIP',
+		wordCount: '',
 		type: BookType.ANTHOLOGY,
 		genres: [Genre.HORROR, Genre.SUPERNATURAL],
 		chapters: _buildChapters([
 			{
 				title: 'Assemblage I',
+				wordCount: 450,
 			},
 			{
 				title: 'Do I Lock It?',
+				wordCount: 1288,
 			},
 			{
 				title: 'Wall Flowers',
+				wordCount: 7051,
 			},
 			{
 				title: 'Imperfection',
+				wordCount: 1049,
 			},
 			{
 				title: 'Outer Crust',
+				wordCount: 2172,
 			},
 			{
 				title: 'Hunting',
+				wordCount: 4501,
 			},
 			{
 				title: 'Tenure',
+				wordCount: 1352,
 			},
 			{
 				title: 'Denise',
+				wordCount: 8044,
 			},
 			{
 				title: 'Assemblage II',
+				wordCount: 518,
 			},
 			{
-				title: 'The Tantrum',
+				title: 'Tantrum',
+				wordCount: 2302,
 			},
 			{
 				title: 'Unearthed',
+				wordCount: 5148,
 			},
 			{
 				title: 'Undertow',
+				wordCount: 8355,
 			},
 			{
 				title: 'Inoperable',
+				wordCount: 4845,
 			},
 			{
 				title: 'Genetics',
+				wordCount: 1845,
 			},
 			{
 				title: 'Assemblage III',
+				wordCount: 609,
 			},
 			{
 				title: 'Unfounded',
+				wordCount: 4803,
 			},
 		]),
 		firstPublished: '2022',
