@@ -246,12 +246,11 @@ const BookList = {
 		title: BookTitle.BONE_BLOOD_1,
 		id: BookId.BONE_BLOOD_1,
 		blurb: `
-			There's no place in vampire hierarchy for failed prince Torani.
-			Raised to start the next nest, now his only purpose is to predict the final rank of rising grubs.
-			As he struggles to find his role in a society bound by instinct, electro-chemical manipulation, and fear of failing the queen, he steps further out of line.
-			Courting one of the knights?  Unacceptable.  Claiming a rising royal as his own? Treasonous.
-			But as the decaying nest caves in on itself, he'll do anything to keep his chosen family safe.
-			Even it means allying himself with the princess that rejected him.
+			Torani’s a failure.  A vampire biologically denied the rank he was raised for.  Now, his only value to the nest is predicting the final rank of rising grubs.  In a hierarchy bound by instinct, electro-chemical manipulation, and Queen’s Will, Torani needs to prove he’s more than another hungry mouth.
+
+			But it’s hard to stay in line when there’s no rules for your fake rank.
+
+			He never made prince, so surely he can court a knight.  If his half-formed prince instincts demand a family, he can claim and raise a rising royal too.  Unforgivable transgressions only allowed because the old regime is caving in.  This is his chance to escape and build his chosen family’s dream nest.  Or, he’ll discover his dream is its own suffocating hierarchy.
 		`,
 		misc: `
 			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
