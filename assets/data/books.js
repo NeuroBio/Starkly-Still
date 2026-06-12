@@ -543,7 +543,7 @@ const BookList = {
 			},
 			{
 				title: 'Hunting',
-				wordCount: 4501,
+				wordCount: 4280,
 			},
 			{
 				title: 'Tenure',
