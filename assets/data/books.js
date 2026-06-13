@@ -547,7 +547,7 @@ const BookList = {
 			},
 			{
 				title: 'Tenure',
-				wordCount: 1352,
+				wordCount: 1312,
 			},
 			{
 				title: 'Denise',
