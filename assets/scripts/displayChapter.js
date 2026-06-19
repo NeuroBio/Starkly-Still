@@ -14,6 +14,7 @@ if (bookmark.chapterId === chapterId && bookmark.pageId === pageId) {
 
 buildHeader();
 buildChapterLinks();
+setBackParams();
 
 
 function buildHeader() {
@@ -143,6 +144,10 @@ function bookmarkPage () {
 		const actionText = `Bookmarked ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
 		window.alert(actionText);
 	}
+}
+
+function setBackParams () {
+	d3.select('#back').attr('href', `./landing.html?${QueryParams.BOOK}=${bookId}`);
 }
 
 let content;
