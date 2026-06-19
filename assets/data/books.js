@@ -36,12 +36,15 @@ const QueryParams = Object.freeze({
 	CHAPTER: 'chapter',
 	BOOK: 'book',
 	PAGE: 'page',
+	SERIES: 'series',
 });
 
 class Series {
 	constructor (params) {
 		this.books = params.books;
-		this.title = params.title
+		this.title = params.title;
+		this.noContext = params.noContext;
+		this.hasNoContext = params.noContext?.length > 0;
 	}
 }
 class Book {
@@ -641,20 +644,117 @@ const BookList = {
 	}),
 };
 
-const SeriesList = [
-	new Series({
+const BoneAndBloodNoContext = [
+	[
+		`Azehralia: You know that scene where I reclaim Torani and tell him to stop screwing Serana?`,
+		`Me: Sure…`,
+		`Azehralia: Two things. 1) I would like to accuse Torani of trying to replace Ilen.`,
+		`Me: Okay, but he’s not going to like that`,
+		`Azehralia: Tough shit. 2) I would like to creepily imply that I have chosen Torani
+		as my prince and that he will have a more appropriate position once Ilen is gone.
+		That I have plans for him.`,
+		`Me: You intend to eat him, huh?`,
+		`Azehralia: Yes, but there’s no need to be so obvious about it.
+		If the reader can’t figure out my plan then they are too stupid to deserve to know.`,
+		`Me: Christ and I thought Ilen was bad.`,
+		`Azehralia: Like mother like daughter as they say.  I’m far more intelligent and capable than she is though.`
+	],
+	[
+		`Serana: Hey.`,
+		`Serana: Hey you want some memes?`,
+		`Me: The fuck are you talking about.`,
+		`Serana: Presenting a dead duck with its little chest ripped out to Torani and saying "It's you."`,
+		`Me: Is that a meme or a threat?`,
+		`Serana: I should have known better than to think food would get it.`,
+	],
+];
+
+const AlpineNoContext = [
+	[
+		`
+		So by Twilight by Mobius Band comes up on my iPod on the drive to work.
+		Brain be like: Okay, if Alpine were a movie it would open with this.
+		Brain, it's three+ minutes...
+		`,
+		`
+		Okay well it's like this:
+		You have like a one minute intro to Tim and John in the car.
+		Maybe the only dialog is John saying "Aren't you going to open them?"
+		and pointing to the carton of crossroads.
+		With Tim just replying, "You hate it when I smoke.
+		I won't make you deal either it in a closed space.
+		I'm fine for now."
+		`,
+		`Cue "6 months earlier"`,
+		`
+		Song plays over frantic scene of John packing up a tiny dingey apartment full of trash.
+		And pretty much everything goes into garbage bags.
+		He might stuff a full mouthfuls from a carton of left over Chinese into his mouth before tossing the rest.
+		Shoving his clothes into his duffle bag.
+		Ripping it.
+		He swears.
+		Duck tapes it together.
+		Throws away the rest of the roll of duck tape.
+		Montage of bag after bag of trash into the dumpster
+		`,
+		`
+		Swearing as he pulls a couch losing its stuffing down the tiny staircase.
+		Leaving it on the side of the street next to a mountain of snow.
+		`,
+		`
+		Finally, he's got his shit together and his duffle bag over his shoulder and his arms full of his bean bag chair.
+		Bundled up in hat, scarf, gloves, winter coat...
+		He tosses the bean bag into the passenger seat.
+		Gets in the car.
+		Takes three attempts to start.
+		Drives through blizzard hell to the airport.
+		`,
+		`
+		And it's slow.
+		He's frantically checking his watch.
+		Before he runs to the airport, he gets out of his jenky car, kicks it, and says, "good riddance."
+		Runs into the airport.
+		Checks his bean bag at the deck under the bemused smiles of the attendants.
+		One asks him what he needs it for.
+		He mumbles, "New job. Need something to sleep on when I get there." 
+		`,
+		`
+		Bolts from there to security past the flights board which is full of red.
+		Dashes through easily since this would definitely be pre-9-11.
+		He gets to his gate sure he's going to miss his flight.
+		No one is there.
+		He runs to the attendant
+		"I thought I had 5 minutes!  Tell me the planes still on the ground!"
+		`,
+		`"Honey, it got canceled.  The entire runway is a skating rink."`,
+		`"But... no one..."`,
+		`"Here, give me your name, and I'll make sure we get you rescheduled."`,
+		`
+		Cut to John treading in the snow back to his car hugging his bean bag.
+		He opens the door.
+		Gets in.
+		It won't start.
+		`,
+	],
+];
+
+const SeriesList = {
+	[SeriesTitle.ALPINE]: new Series({
 		title: SeriesTitle.ALPINE,
 		books: [BookList[BookId.ALPINE]],
+		noContext: AlpineNoContext,
 	}),
-	new Series({
+	[SeriesTitle.BONE_BLOOD]: new Series({
 		title: SeriesTitle.BONE_BLOOD,
 		books: [
 			BookList[BookId.BONE_BLOOD_1],
 			BookList[BookId.BONE_BLOOD_2],
 		],
+		noContext: BoneAndBloodNoContext,
 	}),
-	new Series({
+	[SeriesTitle.CRENULATION]: new Series({
 		title: SeriesTitle.CRENULATION,
 		books: [BookList[BookId.CRENULATION]],
 	}),
-];
+};
+

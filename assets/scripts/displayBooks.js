@@ -1,7 +1,9 @@
 
 const bookList = d3.select('#books');
 
-SeriesList.forEach((series) => {
+const allSeries = Object.values(SeriesList);
+
+allSeries.forEach((series) => {
 	const book = series.books[0];
 	const bookEntry = bookList.append('article')
 		.on('click', () => setActiveBook(book, series))
@@ -20,7 +22,7 @@ SeriesList.forEach((series) => {
 
 d3.select('#copyright').text(`© 2021 - ${new Date().getFullYear()} Stray. All Rights Reserved`);
 
-setActiveBook(BookList[BookId.ALPINE], SeriesList[0]);
+setActiveBook(BookList[BookId.ALPINE], allSeries[0]);
 
 
 function setActiveBook (activeBook, activeSeries) {
@@ -41,8 +43,23 @@ function setActiveBook (activeBook, activeSeries) {
 	d3.select('#draft-completed').text(activeBook.completedFirstDraft);
 	d3.select('#last-edited').text(activeBook.lastEdited);
 
+	setNoContext(activeSeries);
 	setOtherBooks(activeBook, activeSeries);
 	setChapters(activeBook);
+}
+
+function setNoContext (activeSeries) {
+	const noContext = d3.select('#no-context');
+	if (activeSeries.hasNoContext) {
+		noContext
+			.attr('class', 'link-footer-button')
+			.attr('href', `./no-context.html?${QueryParams.SERIES}=${activeSeries.title}`);
+		return;
+	}
+
+	noContext
+		.attr('class', 'hide-no-context')
+		.attr('href', ``);
 }
 
 function setOtherBooks(activeBook, activeSeries) {

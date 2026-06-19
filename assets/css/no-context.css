@@ -7,22 +7,8 @@
 	row-gap: 1em;
 }
 
-section {
+article {
 	padding: 1em;
 	border: 1px rgb(156, 82, 185) solid;
 	border-radius: .5em;
-}
-
-h1 {
-	margin: 0;
-}
-
-ul {
-	display: flex;
-	flex-direction: column;
-	row-gap: 1em;
-}
-
-li {
-	list-style-type: none;
 }

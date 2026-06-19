@@ -167,3 +167,13 @@ footer {
 .list-button {
 	cursor: pointer;
 }
+
+.publishing-and-no-context {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.hide-no-context {
+	display: none;
+}
