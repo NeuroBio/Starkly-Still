@@ -136,13 +136,11 @@ function bookmarkPage () {
 		localStorage.removeItem(bookId);
 		bookmarkButton.classed('bookmarked', false);
 		const actionText = `Removed bookmark for ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
-		console.log(actionText);
 		window.alert(actionText);
 	} else {
 		localStorage.setItem(bookId, JSON.stringify({ chapterId, pageId }));
 		bookmarkButton.classed('bookmarked', true);
 		const actionText = `Bookmarked ${activeBook.title} at chapter: ${chapterTitle}, page ${pageId}.`;
-		console.log(actionText);
 		window.alert(actionText);
 	}
 }
@@ -150,9 +148,14 @@ function bookmarkPage () {
 let content;
 Promise.resolve()
 	.then(() => activateChapter.isImage
-			? { text: () => ('') }
+			? { text: () => (''), ok: true }
 			: fetch(`../assets/chapters/${bookId}/${chapterId}.txt`))
-	.then((response) => response.text())
+	.then((response) => {
+		if (!response.ok) {
+			throw new Error(`Text not found.`);
+		}
+		return response.text();
+	})
 	.then((text) => content = text)
 	.catch(error => {
 		console.error('Error fetching file:', error);
@@ -167,7 +170,6 @@ Promise.resolve()
 				.append('img')
 				.attr('id', 'chapter-image')
 				.attr('src', `../assets/misc-images/${activateChapter.image}`);
-			console.log(`../assets/misc-images/${activateChapter.image}`);			
 		}
 
 	});
