@@ -112,7 +112,6 @@ function setChapters (activeBook) {
 		}
 
 		if (chapter.subtitle) {
-			link.append('br')
 			link.append('span')
 				.attr('class', 'label')
 				.text(chapter.subtitle);

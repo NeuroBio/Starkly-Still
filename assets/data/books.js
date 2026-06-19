@@ -76,6 +76,8 @@ class Chapter {
 		this.section = params.section;
 		this.subtitle = params.subtitle;
 		this.wordCount = params.wordCount;
+		this.isImage = !!params.image;
+		this.image = params.image;
 	}
 }
 
@@ -584,6 +586,51 @@ const BookList = {
 			{
 				title: 'Unfounded',
 				wordCount: 4803,
+			},
+			{
+				title: 'Hybrid (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: `It's Me - Spooky smell (placeholder)`,
+				wordCount: 0,
+			},
+			{
+				title: 'Flicker - Spooky lights (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Ungrounded (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Spooky Fence (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Spooky Garage (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Spooky Flames (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Pogo Spike? (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Assemblage IV (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'The Nonexistence Button (placeholder)',
+				wordCount: 0,
+			},
+			{
+				title: 'Errata',
+				wordCount: 20,
+				image: 'crenulation-layer-2.jpg',
 			},
 		]),
 		firstPublished: '2022',

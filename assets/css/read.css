@@ -38,6 +38,12 @@ h1, h2 {
 	flex-direction: column;
 }
 
+#chapter-text-container:has(#chapter-image) {
+  max-width: min(1000px, calc(100vw - 60px))!important; /* Forces the article to expand wide */
+  width: 95vw;
+}
+
+
 #chapter-text-container hr {
 	border-color: rgb(72, 52, 77);
 	border-style: solid;
@@ -47,6 +53,10 @@ h1, h2 {
 
 #chapter-text {
 	flex-grow: 1;
+}
+
+#chapter-text-container:has(#chapter-image) #chapter-text {
+	flex-grow: 0;
 }
 
 .button-box-page {
@@ -87,4 +97,34 @@ footer  {
 
 .bookmarked {
 	color: rgb(216, 140, 247) !important;
+}
+
+#chapter-image-slot {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+#chapter-text-container:has(#chapter-image) #chapter-image-slot {
+	flex-grow: 1;
+	justify-content: center;
+}
+
+
+#chapter-image {
+	max-width: 100%;
+	align-self: flex-start;
+	margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+	#chapter-image {
+		width: 90vh;   
+		height: 90vw;  		
+		object-fit: contain;
+		max-width: 690px;
+		transform: rotate(-90deg);
+		align-self: center;
+		margin-top: 0;
+	}
 }
