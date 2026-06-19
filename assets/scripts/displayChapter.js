@@ -147,16 +147,13 @@ function bookmarkPage () {
 	}
 }
 
-console.log(activateChapter)
 let content;
 Promise.resolve()
 	.then(() => activateChapter.isImage
 			? { text: () => ('') }
 			: fetch(`../assets/chapters/${bookId}/${chapterId}.txt`))
-	.then((response) => {
-		console.log(response);
-		content = response.text()
-	})
+	.then((response) => response.text())
+	.then((test) => content = text)
 	.catch(error => {
 		console.error('Error fetching file:', error);
 		content = `Data not found`;
