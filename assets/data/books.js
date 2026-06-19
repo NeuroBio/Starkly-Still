@@ -52,6 +52,7 @@ class Book {
 		this.id = params.id
 		this.title = params.title;
 		this.blurb = params.blurb;
+		this.series = params.series;
 		this.misc = params.misc;
 		this.firstPublished = params.firstPublished;
 		this.completedFirstDraft = params.completedFirstDraft;
@@ -88,6 +89,7 @@ const BookList = {
 	[BookId.ALPINE]: new Book({
 		title: BookTitle.ALPINE,
 		id: BookId.ALPINE,
+		series: SeriesTitle.ALPINE,
 		blurb: `
 			Awkward software developer John meets his new coworker, Tim,
 			your typical, plugged-in socialite, with a perfect smile, all the right clothes, and a psychopath's dead-eyed stare.
@@ -250,6 +252,7 @@ const BookList = {
 	[BookId.BONE_BLOOD_1]: new Book({
 		title: BookTitle.BONE_BLOOD_1,
 		id: BookId.BONE_BLOOD_1,
+		series: SeriesTitle.BONE_BLOOD,
 		blurb: `
 			Torani’s a failure.  A vampire biologically denied the rank he was raised for.  Now, his only value to the nest is predicting the final rank of rising grubs.  In a hierarchy bound by instinct, electro-chemical manipulation, and Queen’s Will, Torani needs to prove he’s more than another hungry mouth.
 
@@ -485,6 +488,7 @@ const BookList = {
 	[BookId.BONE_BLOOD_2]: new Book({
 		title: BookTitle.BONE_BLOOD_2,
 		id: BookId.BONE_BLOOD_2,
+		series: SeriesTitle.BONE_BLOOD,
 		blurb: `
 			Kidnapping someone is generally not the best way to meet people, but Rhodes is in a tight spot as his cycle draws to a close.
 			Do vampires even count as “people?”
@@ -513,6 +517,7 @@ const BookList = {
 	[BookId.CRENULATION]: new Book({
 		title: BookTitle.CRENULATION,
 		id: BookId.CRENULATION,
+		series: SeriesTitle.CRENULATION,
 		blurb: `
 			A sentient book that collects memories.
 			A town on the corner between realities.

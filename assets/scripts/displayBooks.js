@@ -1,9 +1,12 @@
 
+const urlParams = new URLSearchParams(window.location.search);
 const bookList = d3.select('#books');
+const currentBookId = urlParams.get(QueryParams.BOOK) || SeriesList[SeriesTitle.ALPINE].books[0].id;
+const currentBook = BookList[currentBookId];
 
-const allSeries = Object.values(SeriesList);
+let init = false;
 
-allSeries.forEach((series) => {
+ Object.values(SeriesList).forEach((series) => {
 	const book = series.books[0];
 	const bookEntry = bookList.append('article')
 		.on('click', () => setActiveBook(book, series))
@@ -22,7 +25,7 @@ allSeries.forEach((series) => {
 
 d3.select('#copyright').text(`© 2021 - ${new Date().getFullYear()} Stray. All Rights Reserved`);
 
-setActiveBook(BookList[BookId.ALPINE], allSeries[0]);
+setActiveBook(currentBook, SeriesList[currentBook.series]);
 
 
 function setActiveBook (activeBook, activeSeries) {
@@ -46,6 +49,7 @@ function setActiveBook (activeBook, activeSeries) {
 	setNoContext(activeSeries);
 	setOtherBooks(activeBook, activeSeries);
 	setChapters(activeBook);
+	setQueryParams(activeBook, activeSeries);
 }
 
 function setNoContext (activeSeries) {
@@ -139,5 +143,17 @@ function setChapters (activeBook) {
 	if (!addedChapter) {
 		chapters.append('p').text('Pending');
 	}
+}
+
+function setQueryParams (activeBook, activeSeries) {
+
+	if (!init) {
+		init = true;
+		return;
+	}
+
+	const url = new URL(window.location.href);
+	url.searchParams.set(QueryParams.BOOK, activeBook.id);
+	window.history.pushState(null, '', url);
 }
 
