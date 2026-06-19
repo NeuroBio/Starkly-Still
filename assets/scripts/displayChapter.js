@@ -153,7 +153,7 @@ Promise.resolve()
 			? { text: () => ('') }
 			: fetch(`../assets/chapters/${bookId}/${chapterId}.txt`))
 	.then((response) => response.text())
-	.then((test) => content = text)
+	.then((text) => content = text)
 	.catch(error => {
 		console.error('Error fetching file:', error);
 		content = `Data not found`;
