@@ -78,6 +78,14 @@ hr {
 
 .link-entry:hover {
 	list-style-type: none;
-	background-color: rgb(46, 43, 46);
-	
+	background-color: rgb(46, 43, 46);	
+}
+
+iframe {
+	width: 100%;
+	height: calc(100vh - 16px);
+	border: 0px;
+	overflow: unset;
+	overflow-clip-margin: unset;
+	display: block;
 }

@@ -58,8 +58,7 @@ function buildChapterLinks () {
 }
 
 function buildReadLink ({ book, chapter, page }) {
-	return `./read.html?${
-		QueryParams.BOOK}=${book}&${
+	return `./${book}.html?${
 		QueryParams.CHAPTER}=${chapter}&${
 		QueryParams.PAGE}=${page}`;
 }

@@ -15,7 +15,7 @@ Object.values(BookList).forEach((book) => {
 		.attr(`class`, 'link-entry')
 	entry.append('a')
 		.attr('class', 'link-button')
-		.attr('href', `./read.html?${QueryParams.BOOK}=${book.id}&${QueryParams.CHAPTER}=${bookmark.chapterId}&${QueryParams.PAGE}=${pageId}`)
+		.attr('href', `./${book.id}.html?${QueryParams.CHAPTER}=${bookmark.chapterId}&${QueryParams.PAGE}=${pageId}`)
 		.text(`${bookTitle} at chapter: ${chapterTitle}, page ${pageId}`);
 	addedBookmark = true;
 });

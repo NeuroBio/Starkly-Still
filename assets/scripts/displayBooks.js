@@ -122,7 +122,7 @@ function setChapters (activeBook) {
 			.attr('class', 'link-entry');
 		const link = entry.append('a')
 			.attr('class', 'link-button')
-			.attr('href', `./read.html?${QueryParams.BOOK}=${activeBook.id}&${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
+			.attr('href', `./${activeBook.id}.html?${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
 		
 		const mainTitle = link.append('div').attr('class', 'main-title');
 		mainTitle.append('span').text(title);

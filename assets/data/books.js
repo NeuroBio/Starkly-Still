@@ -262,7 +262,7 @@ const BookList = {
 		`,
 		misc: `
 			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
-			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by....
+			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by...
 			how to make being a necromancer as unfun as possible. 
 		`,
 		wordCount: `~91K`,
@@ -502,7 +502,7 @@ const BookList = {
 		`,
 		misc: `
 			A two-volume story.  Set at the end of the roaring 20s in Colorado Springs.
-			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by....
+			Built on my take on Vampires, inspired by social insects, and Necromancers, inspired by...
 			how to make being a necromancer as unfun as possible.
 		`,
 		wordCount: `WIP`,
@@ -654,7 +654,7 @@ const BoneAndBloodNoContext = [
 		`Azehralia: You know that scene where I reclaim Torani and tell him to stop screwing Serana?`,
 		`Me: Sure…`,
 		`Azehralia: Two things. 1) I would like to accuse Torani of trying to replace Ilen.`,
-		`Me: Okay, but he’s not going to like that`,
+		`Me: Okay, but he’s not going to like that.`,
 		`Azehralia: Tough shit. 2) I would like to creepily imply that I have chosen Torani
 		as my prince and that he will have a more appropriate position once Ilen is gone.
 		That I have plans for him.`,
