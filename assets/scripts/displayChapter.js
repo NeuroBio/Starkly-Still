@@ -170,10 +170,15 @@ Promise.resolve()
 		pages[pageId - 1].forEach((paragraph) => text.append('p').html(paragraph));
 		this.addPageLinks(pages.length);
 		if (activateChapter.isImage) {
-			const image = d3.select('#chapter-image-slot')
+			const imageContainer = d3.select('#chapter-image-slot')
+			imageContainer
 				.append('img')
 				.attr('id', 'chapter-image')
-				.attr('src', `../assets/misc-images/${activateChapter.image}`);
+				.attr('src', `../assets/misc-images/${activateChapter.image}`)
+				.attr('alt', activateChapter.imageAlt);
+			const description = imageContainer.append('section').attr('class', 'screen-reader-only');
+			description.append('p').text('Image Description')
+			description.append('p').text(activateChapter.imageDescription);
 		}
 
 	});

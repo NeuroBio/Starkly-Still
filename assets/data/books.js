@@ -92,6 +92,8 @@ class Chapter {
 		this.wordCount = params.wordCount;
 		this.isImage = !!params.image;
 		this.image = params.image;
+		this.imageAlt = params.imageAlt;
+		this.imageDescription = params.imageDescription;
 	}
 }
 
@@ -653,6 +655,26 @@ const BookList = {
 				title: 'Errata',
 				wordCount: 20,
 				image: 'crenulation-layer-2.jpg',
+				imageAlt: 'Diagram from a spiral notebook shaped as a stylized genealogy.  See Image Description.',
+				imageDescription: `
+				At the top of the genealogy in blocky primitive script: Primal.
+				A note by Primal states: "You know it's nameless, right?"
+				Primal's immediate descendants are symbols:
+				On the left: a three sided rectangle with a wave shape in it.
+				A note by it states: "Is this Deep?"
+				On the right: an ouroboros twisted in the shape of an eight with a bar passing through the top of the loop.
+				The right side symbol has an unusual trajectory.
+				It has one simple direct descendant: Corp, written in blocky sterile script.
+				However, the ouroboros symbol and Corp have a looped back linkage leading to another shared descendant.
+				The note there states: "What exactly happened here?"
+				The shared descendant is a series of dots in a grid.  While many dots are missing, it appears to read as RUST.
+				The note on RUST is: "I fucking hate this bastard." with hate underlined.
+				Corp has an additional direct descendant, Denise, which is written in stylized, clean cursive.
+				In the bottom left corner there is another member that is disconnected from the reest of the genealogy.
+				Many of its letters are smashed together and some are reversed, but it reads REPLACEMENT.
+				The background behind REPLACEMENT is shaded darker.
+				The note pointing to REPLACEMENT is: "Are you sure?" with sure underlined.
+				`,
 			},
 		]),
 		firstPublished: '2022',

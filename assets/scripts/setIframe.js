@@ -4,4 +4,5 @@ const currentParams = window.location.search || `?${QueryParams.CHAPTER}=1&${Que
 
 d3.select('body')
 	.append('iframe')
+	.attr('title', 'Reading Interface')
 	.attr('src', `../pages/read.html${currentParams}&${QueryParams.BOOK}=${bookId}`);       
