@@ -8,13 +8,14 @@ let init = false;
 
  Object.values(SeriesList).forEach((series) => {
 	const book = series.books[0];
-	const bookEntry = bookList.append('article')
+	const bookEntry = bookList.append('button')
 		.on('click', () => setActiveBook(book, series))
 		.attr('class', 'book');
 	
 	bookEntry.append('img')
 		.attr('class', 'small-thumbnail')
 		.attr('src', book.thumbnail)
+		.attr('alt', '');
 	
 	bookEntry.append('h2')
 		.text(series.title);
