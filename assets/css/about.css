@@ -26,3 +26,19 @@ ul {
 li {
 	list-style-type: none;
 }
+
+#clear-storage {
+	display: flex;
+	justify-content: flex-end;
+}
+
+button {
+	border: 1px rgb(156, 82, 185) solid;
+	background-color: transparent;
+	border-radius: .5em;
+	color: inherit;
+	font-size: 12pt;
+	font-family: inherit;
+	padding: 3px;
+	cursor: pointer;
+}

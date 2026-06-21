@@ -22,4 +22,16 @@ Object.values(BookList).forEach((book) => {
 
 if (!addedBookmark) {
 	bookmarks.append('li').text('No bookmarks found.');
+} else {
+	d3.select('#clear-storage')
+		.append('button')
+		.text('Clear Storage')
+		.on('click', () => clearStorage())
+}
+
+function clearStorage () {
+	localStorage.clear();
+	bookmarks.html('');
+	bookmarks.append('li').text('No bookmarks found.');
+	d3.select('#clear-storage').remove();
 }
