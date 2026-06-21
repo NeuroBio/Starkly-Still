@@ -95,6 +95,7 @@ hr {
 	display: block;
 	line-height: 1.5;
 	box-sizing: content-box;
+	user-select: none;
 }
 
 .book:hover {
@@ -233,4 +234,5 @@ footer {
 #copyright {
 	display: block;
 	height: 22px;
+	user-select: none;
 }
