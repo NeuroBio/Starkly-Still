@@ -561,7 +561,7 @@ const BookList = {
 			},
 			{
 				title: 'Denise',
-				wordCount: 8044,
+				wordCount: 7623,
 			},
 			{
 				title: 'Assemblage II',
