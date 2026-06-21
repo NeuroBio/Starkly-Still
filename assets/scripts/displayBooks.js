@@ -97,8 +97,9 @@ function setChapters (activeBook) {
 	let activeSection;
 	let activeSectionName;
 	let madeFirst = false;
+	const totalChapters = activeBook.chapters.length;
 	const { chapterId: bookmark, pageId } = JSON.parse(localStorage.getItem(activeBook.id) || '{}');
-	activeBook.chapters.forEach((chapter) => {
+	activeBook.chapters.forEach((chapter, i) => {
 		addedChapter = true;
 		if (chapter.section !== activeSectionName || !madeFirst) {
 			activeSectionName = chapter.section;
@@ -123,8 +124,11 @@ function setChapters (activeBook) {
 		const entry = activeSection.append('li')
 			.attr('class', 'link-entry');
 		const link = entry.append('a')
+			.attr('id', `chapter-${i}`)
 			.attr('class', 'link-button')
-			.attr('href', `./${activeBook.id}.html?${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`);
+			.attr('href', `./${activeBook.id}.html?${QueryParams.CHAPTER}=${chapter.id}&${QueryParams.PAGE}=${page}`)
+			.attr('tabindex', i === 0 ? 0 : -1)
+			.on('keydown', () => jumpToNextChapter(event, i, totalChapters));
 		
 		const mainTitle = link.append('div').attr('class', 'main-title');
 		mainTitle.append('span').text(title);
@@ -157,5 +161,29 @@ function setQueryParams (activeBook, activeSeries) {
 	const url = new URL(window.location.href);
 	url.searchParams.set(QueryParams.BOOK, activeBook.id);
 	window.history.pushState(null, '', url);
+}
+
+function jumpToNextChapter (event, currentIndex, totalChapters) {
+	let nextIndex;
+	if (event.key === "ArrowDown") {
+		nextIndex =  (currentIndex + 1) % totalChapters;
+	} else if (event.key === "ArrowUp") {
+		nextIndex = (currentIndex - 1 + totalChapters) % totalChapters;
+	} else {
+		return;
+	}
+
+	event.stopImmediatePropagation();
+	event.stopPropagation();
+
+	setTimeout(() => {
+		const next = d3.select(`#chapter-${nextIndex}`)
+			.attr('tabindex', 0)
+			.node()
+			.focus();
+
+		const current = d3.select(`#chapter-${currentIndex}`)
+			.attr('tabindex', -1);
+	}, 0)
 }
 
