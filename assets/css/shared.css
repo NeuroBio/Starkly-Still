@@ -47,6 +47,7 @@ hr {
 }
 
 .icon-button {
+	user-select: none;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -89,3 +90,4 @@ iframe {
 	overflow-clip-margin: unset;
 	display: block;
 }
+

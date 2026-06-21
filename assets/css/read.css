@@ -39,7 +39,7 @@ h1, h2 {
 }
 
 #chapter-text-container:has(#chapter-image) {
-  max-width: min(1000px, calc(100vw - 60px))!important; /* Forces the article to expand wide */
+  max-width: min(935px, calc(100vw - 60px))!important; /* Forces the article to expand wide */
   width: 95vw;
 }
 
@@ -71,6 +71,7 @@ h1, h2 {
 }
 
 footer  {
+	user-select: none;
 	position: fixed;
 	bottom: 0;
 	left: 0;

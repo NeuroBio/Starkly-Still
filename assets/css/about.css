@@ -33,6 +33,7 @@ li {
 }
 
 button {
+	user-select: none;
 	border: 1px rgb(156, 82, 185) solid;
 	background-color: transparent;
 	border-radius: .5em;
@@ -41,4 +42,8 @@ button {
 	font-family: inherit;
 	padding: 3px;
 	cursor: pointer;
+}
+
+button:hover {
+	background-color: rgb(46, 43, 46);	
 }
