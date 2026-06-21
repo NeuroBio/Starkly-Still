@@ -23,8 +23,11 @@
 	</head>
 	<body>
 		<h1>
-			Starkly
-			<span id="still">Still</span>
+			<header>
+				Starkly
+				<span id="still">Still</span>
+			</header>
+			<a id="content-advisory" href="./content-advisory.html">Content Advisory</a>
 		</h1>
 		<div>
 			<hr>
@@ -71,6 +74,11 @@
 
 					<div class="publishing-and-no-context">
 						<p>
+							<span class="label">Status:</span>
+							<span id="book-status">
+								<!-- populated via d3 -->
+							</span>
+							<br>
 							<span class="label">Published First Chapter:</span>
 							<span id="first-published">
 								<!-- populated via d3 -->
@@ -87,7 +95,7 @@
 							</span>
 						</p>
 						<!-- no-context populated via d3 -->
-						<a id="no-context" href="./no-context.html" class="link-footer-button">No Context</a>
+						<a id="no-context" href="./no-context.html" class="landing-link-button">No Context</a>
 					</div>
 
 					<div id="other-books">
@@ -103,7 +111,7 @@
 		</div>
 		<footer>
 			<span id="copyright"></span>
-			<a href="./about.html" class="link-footer-button">About</a>
+			<a href="./about.html" class="about-button">About</a>
 		</footer>
 
 		<script src="https://d3js.org/d3.v5.min.js"></script>

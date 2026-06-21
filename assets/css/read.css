@@ -79,6 +79,7 @@ footer  {
 	z-index: 1000;
 	background-color: rgb(27, 27, 27);
 	box-sizing: border-box;
+	max-width: 555px;
 }
 
 .button-box-footer {

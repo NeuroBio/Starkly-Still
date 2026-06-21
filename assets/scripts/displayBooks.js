@@ -43,6 +43,7 @@ function setActiveBook (activeBook, activeSeries) {
 	d3.select('#blurb').text(activeBook.blurb);
 	d3.select('#misc').text(activeBook.misc);
 	d3.select('#first-published').text(activeBook.firstPublished);
+	d3.select('#book-status').text(activeBook.status);
 	d3.select('#draft-completed').text(activeBook.completedFirstDraft);
 	d3.select('#last-edited').text(activeBook.lastEdited);
 
@@ -56,7 +57,7 @@ function setNoContext (activeSeries) {
 	const noContext = d3.select('#no-context');
 	if (activeSeries.hasNoContext) {
 		noContext
-			.attr('class', 'link-footer-button')
+			.attr('class', 'landing-link-button')
 			.attr('href', `./no-context.html?${QueryParams.SERIES}=${activeSeries.title}`);
 		return;
 	}

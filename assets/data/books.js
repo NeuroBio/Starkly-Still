@@ -18,6 +18,15 @@ const BookTitle = Object.freeze({
 	CRENULATION: 'Crenulation',
 });
 
+const BookStatus = Object.freeze({
+	PLANNING: 'Planning',
+	PLANNED: 'Planned',
+	WIP: 'In Progress',
+	DRAFTED: 'Draft Completed',
+	EDITING: 'In Revision',
+	DONE: 'Final Release',
+});
+
 const BookType = Object.freeze({
 	NOVEL: 'Novel',
 	NOVELLA: 'Novella',
@@ -57,6 +66,7 @@ class Book {
 		this.firstPublished = params.firstPublished;
 		this.completedFirstDraft = params.completedFirstDraft;
 		this.lastEdited = params.lastEdited;
+		this.status = params.status,
 		
 		this.wordCount = params.wordCount;
 		this.type = params.type;
@@ -90,6 +100,7 @@ const BookList = {
 		title: BookTitle.ALPINE,
 		id: BookId.ALPINE,
 		series: SeriesTitle.ALPINE,
+		status: BookStatus.DONE,
 		blurb: `
 			Awkward software developer John meets his new coworker, Tim,
 			your typical, plugged-in socialite, with a perfect smile, all the right clothes, and a psychopath's dead-eyed stare.
@@ -253,6 +264,7 @@ const BookList = {
 		title: BookTitle.BONE_BLOOD_1,
 		id: BookId.BONE_BLOOD_1,
 		series: SeriesTitle.BONE_BLOOD,
+		status: BookStatus.DRAFTED,
 		blurb: `
 			Torani’s a failure.  A vampire biologically denied the rank he was raised for.  Now, his only value to the nest is predicting the final rank of rising grubs.  In a hierarchy bound by instinct, electro-chemical manipulation, and Queen’s Will, Torani needs to prove he’s more than another hungry mouth.
 
@@ -489,6 +501,7 @@ const BookList = {
 		title: BookTitle.BONE_BLOOD_2,
 		id: BookId.BONE_BLOOD_2,
 		series: SeriesTitle.BONE_BLOOD,
+		status: BookStatus.PLANNED,
 		blurb: `
 			Kidnapping someone is generally not the best way to meet people, but Rhodes is in a tight spot as his cycle draws to a close.
 			Do vampires even count as “people?”
@@ -518,6 +531,7 @@ const BookList = {
 		title: BookTitle.CRENULATION,
 		id: BookId.CRENULATION,
 		series: SeriesTitle.CRENULATION,
+		status: BookStatus.WIP,
 		blurb: `
 			A sentient book that collects memories.
 			A town on the corner between realities.

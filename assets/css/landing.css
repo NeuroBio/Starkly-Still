@@ -27,6 +27,22 @@ h1 {
 	margin-bottom: -18px;
 }
 
+#content-advisory {
+	position: absolute;
+	top: 40px;
+	left: min(calc(100vw - 100px), 725px);
+	padding: 3px 3px;
+	cursor: pointer;
+	text-decoration: none;
+	color: whitesmoke;
+	border: 1px rgb(156, 82, 185) solid;
+	border-radius: .5em;
+	width: 65px;
+	text-align: center;
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
 #still {
 	position: absolute;
 	font-size: 70pt;
@@ -145,15 +161,28 @@ ul {
 } 
 
 footer {
-	display: flex;
-	justify-content: space-between;
+	position: relative;
 	align-items: center;
 	border-top: solid 2px rgb(156, 82, 185);
 	margin-top: 10px;
 	padding-top: 10px;
 }
 
-.link-footer-button {
+.landing-link-button {
+	display: inline-flex;
+	padding: 3px 3px;
+	cursor: pointer;
+	text-decoration: none;
+	color: whitesmoke;
+	border: 1px rgb(156, 82, 185) solid;
+	border-radius: .5em;
+	align-items: center;
+}
+
+.about-button {
+	position: absolute;
+	top: 5px;
+	left: min(calc(100vw - 100px), 755px);
 	display: inline-flex;
 	padding: 3px 3px;
 	cursor: pointer;
@@ -176,4 +205,9 @@ footer {
 
 .hide-no-context {
 	display: none;
+}
+
+#copyright {
+	display: block;
+	height: 22px;
 }
