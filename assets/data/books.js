@@ -581,7 +581,7 @@ const BookList = {
 			},
 			{
 				title: 'Assemblage II',
-				wordCount: 513,
+				wordCount: 511,
 			},
 			{
 				title: 'Tantrum',
