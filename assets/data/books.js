@@ -565,7 +565,7 @@ const BookList = {
 			},
 			{
 				title: 'Outer Crust',
-				wordCount: 2172,
+				wordCount: 2169,
 			},
 			{
 				title: 'Hunting',
